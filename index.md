@@ -1,9 +1,9 @@
 # The [Citizen Cosmos](https://www.citizencosmos.space/) blog
 
 ## Content
-- [Entry I, 09th of September 2020, Earth time: A new website for humanoids](https://citizen-cosmos.github.io/blog/#ecosystem-comparison-cosmos-vs-polkadot-epi)
-- [Entry II, 09th of October 2020, Earth time: Launched a validator on the planet](https://citizen-cosmos.github.io/blog/#ecosystem-comparison-cosmos-vs-polkadot-epi)
-- [Entry III, 10th of November 2020, Earth time: We have recruited humans](https://citizen-cosmos.github.io/blog/#ecosystem-comparison-cosmos-vs-polkadot-epi)
+- [Entry I, 09th of September 2020, Earth time: A new website for humanoids](#meet-the-new-citizen-cosmos-website)
+- [Entry II, 09th of October 2020, Earth time: Launched a validator on the planet](#citizen-cosmos-is-taking-over-the-fuckgoolge-validator-on-the-cosmos-hub-and-launching-a-brand)
+- [Entry III, 10th of November 2020, Earth time: We have recruited humans](#new-team-members-onboard-citizen-cosmos)
 - [Entry IV, 11th of February 2021, Earth time: Comparing ecosystems for humanoids, ep1](#ecosystem-comparison-cosmos-vs-polkadot-epi)
 
 ### Meet the new Citizen Cosmos website
