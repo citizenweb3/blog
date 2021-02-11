@@ -1,7 +1,6 @@
 # The [Citizen Cosmos](https://www.citizencosmos.space/) blog
 
 ## Content
-
 - [Entry I, 11th of February 2021 on Earth](#ecosystem-comparison-cosmos-vs-polkadot-epi)
 
 ### Ecosystem comparison: Cosmos VS Polkadot ep.I
@@ -16,7 +15,6 @@ Our goal is not to start a holy war. Our goal is to try and stay as objective as
 For transparency purposes, the reader should note that we run [a validator](https://www.mintscan.io/cosmos/validators/cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u) on the Cosmos hub, and we have a personal stake in both networks in question, Cosmos and Polkadot. We also hold stakes in some mentioned projects in this report.
 
 ### Comparison
-
 _Ecosystem comparison_
 
 Table 1
@@ -35,5 +33,38 @@ Please note that we specifically didn't take the obvious big names, such as Kusa
 
 Nevertheless, we did what we did. Feel free to comment and keep in mind that this is meant to be educational, rather than anything else.
 
+_Parameters_
 
+- Live nodes: 
+- Whale concentration: 
+- Average TX amount: 
+- Total addresses VS Active addresses: 
+- Search trends:  
+- Galaxy score: 
+- Github Stars: 
+- FDT / TVL: 
+- Average time the token is held: 
 
+_Polkadot ecosystem projects_
+
+Tabe 2
+
+_Cosmos ecosystem projects_
+
+Table 3
+
+### Conclusions
+Gotcha! 
+
+We don’t have any, or rather, we think it’s wrong to draw out conclusions for someone else, especially due to the fact that the purpose of this report is strictly educational, and we already said that this comparison is made, based on Bob’s random pickings. 
+
+Our goal is to push competitiveness forward and not to start any holy wars, we hope that you join Bob in the long term.
+
+We believe that both - Cosmos and Polkadot, are uber important for the success of decentralization, and even more so, we believe that there are many, open, decentralized, censorship-free and great projects that exist out in the wild. 
+
+Enjoy discovering them and always DYOR!  
+
+### P.S.
+We hope you have enjoyed this report. If you did, you can show your support by tuning in into the [Citizen Cosmos podcast](https://www.citizencosmos.space/episodes) to learn more about web3 and the motivation of those who are building it.
+
+We would love it if you could help us to improve this report. Either [email us](mailto:citizencosmos@rocketship.com) or submit [a pull request](https://github.com/citizen-cosmos/blog) if you think you know how to improve the report.
