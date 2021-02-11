@@ -1,8 +1,8 @@
-# The [Citizen Cosmos](https://www.citizencosmos.space/) blog
+# Manuscripts of [Citizen Cosmos](https://www.citizencosmos.space/)
 
 - [Tune your anthenas here humanoids!](https://www.citizencosmos.space/episodes)
 
-## Content
+## Blog content
 - [Entry I, 09th of September 2020, Earth time: A new website for humanoids](#meet-the-new-citizen-cosmos-website)
 - [Entry II, 09th of October 2020, Earth time: Launched a validator on the planet](#citizen-cosmos-is-taking-over-the-fuckgoolge-validator-on-the-cosmos-hub-and-launching-a-brand)
 - [Entry III, 10th of November 2020, Earth time: We have recruited humans](#new-team-members-onboard-citizen-cosmos)
