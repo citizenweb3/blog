@@ -1,6 +1,6 @@
 # Manuscripts of [Citizen Cosmos](https://www.citizencosmos.space/)
 
-- [ :warning: Tune your anthenas here humanoids!](https://www.citizencosmos.space/episodes)
+- [Tune your anthenas here humanoids!](https://www.citizencosmos.space/episodes)
 
 ## Blog content
 - [Entry I, 09th of September 2020, Earth time: A new website for humanoids](#meet-the-new-citizen-cosmos-website)
@@ -11,7 +11,7 @@
 
 - [Entry IV, 11th of February 2021, Earth time: Comparing ecosystems for humanoids, ep1](#ecosystem-comparison-cosmos-vs-polkadot-epi)
 
-###  :white_circle: Meet the new Citizen Cosmos website 
+###  Meet the new Citizen Cosmos website 
 
 Hey Cosmonauts!
 
