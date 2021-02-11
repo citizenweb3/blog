@@ -1,5 +1,7 @@
 # The [Citizen Cosmos](https://www.citizencosmos.space/) blog
 
+- [Tune your anthenas here humanoids!](https://www.citizencosmos.space/episodes)
+
 ## Content
 - [Entry I, 09th of September 2020, Earth time: A new website for humanoids](#meet-the-new-citizen-cosmos-website)
 - [Entry II, 09th of October 2020, Earth time: Launched a validator on the planet](#citizen-cosmos-is-taking-over-the-fuckgoolge-validator-on-the-cosmos-hub-and-launching-a-brand)
@@ -35,7 +37,7 @@ This work includes:
 - Managing of the [@cosmos_rus](https://twitter.com/cosmos_rus) Twitter page
 - Managing the [Cosmos Moscow meetup group](https://www.meetup.com/Cosmos-Moscow) (so far we helped to organize and manage 2 educational events)
 - Managing the [RU-based Cosmos news channel](https://t.me/cosmosinrussian) on Telegram
-- Ongoing help with translating and spreading the RU version of Today in Cosmos (@cosmos_rus)
+- Ongoing help with translating and spreading the RU version of Today in Cosmos [(@cosmos_rus)](https://twitter.com/cosmos_rus)
 - Active involvement in the community of Cosmos
 
 What can be expected:
