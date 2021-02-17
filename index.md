@@ -79,10 +79,10 @@ _Ecosystem comparison_
 | [Cosmos](https://cosmos.network/)| [242](https://cosmos.network/ecosystem/apps) | [$40 Billion](https://cosmos-cap.com/#/) | [10](https://cosmos.network/ecosystem/apps#) | Infrastructure, Finance, Exchanges, DeFi, Oracles, Marketplaces, Privacy, Social, Enterprise, Identity, Communication, Gaming, NFT, AI, Storage, Data management, DAO's |
 | [Polka](https://polkadot.network/) | [362](https://polkaproject.com) | [$51 Billion](https://www.coingecko.com/en/categories/dot-ecosystem) | [15](https://polkaproject.com/) | Infrastructure, Finance, DeFi, Exchanges, Oracles, Data management, Gaming, NFT, IOT, Privacy, DAO's |
 
-- Projects & wallets are those reported by each of the provided websites. It should be noted that there are many projects, such as [Fantom](https://fantom.foundation/fantom-faq/#different) that use aBFT consensus mechanism and can be Cosmos-SDK compatible, hence be a part of the ecosystem
-- Capitalization is correct to the day of writing. The markets are wild. Check the numbers yourself
+- Projects & wallets are those reported by each of the provided websites above. We would like to point out that some of them (on both websites) can be easily crossed out, as they are either in the concept stage, had been reported as scam, etc. Its also worth noting that there are many projects, such as [Fantom](https://fantom.foundation/fantom-faq/#different), out in the wild that use aBFT consensus mechanism and can be Cosmos-SDK compatible, hence can be seen as part of the Cosmos ecosystem
+- Capitalization is correct to the day of writing this article (which was over the course of several days). The markets are wild. Check the numbers for yourself
 - We would argue that it's not the number of SC frameworks that counts, but those that work. It is hard for us to make a judgment here, as we have only tested [CosmWasm](https://www.cosmwasm.com/) - it works
-- Categories covered by the ecosystem is a highly subjective, quick overview. DYOR
+- Categories covered by the ecosystem is a highly subjective opnion and a quick overlook of the projects. DYOR
 
 _Selected project comparison_
 
