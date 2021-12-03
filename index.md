@@ -11,7 +11,7 @@
 
 - [Entry IV, 11th of February 2021, Earth time: Comparing ecosystems for humanoids, ep1 - RETRACTED](#ecosystem-comparison-cosmos-vs-polkadot-epi)
 
-- [Entry V, 3rd of December 2021, Earth time: EVMOS, rule 'em all](#evmos-rule-em-al)
+- [Entry V, 3rd of December 2021, Earth time: EVMOS, rule 'em all](#evmos-rule-em-all)
 
 ###  Meet the new Citizen Cosmos website 
 
@@ -64,7 +64,7 @@ This included migrations, infrastructure set up, planning of tasks and, of cours
 
 ### Ecosystem comparison: Cosmos VS Polkadot ep.I
 
-### Evmos: rule ‘em al
+### Evmos: rule ‘em all
 
 **What is Evmos?**
 Evmos, short for “EVM-on-Cosmos,” will allow Ethereum contracts to communicate with the Cosmos ecosystem. From the creators of the protocol:
