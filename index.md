@@ -11,7 +11,7 @@
 
 - [Entry IV, 11th of February 2021, Earth time: Comparing ecosystems for humanoids, ep1 - RETRACTED](#ecosystem-comparison-cosmos-vs-polkadot-epi)
 
-- [Entry V, 3rd of December 2021, Earth time: EVMOS, rule 'em all](https://citizen-cosmos.github.io/blog/#ecosystem-comparison-cosmos-vs-polkadot-epi)
+- [Entry V, 3rd of December 2021, Earth time: EVMOS, rule 'em all](#)
 
 ###  Meet the new Citizen Cosmos website 
 
