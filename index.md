@@ -27,6 +27,8 @@ In reality a lot more is planned in that direction, and we decided start somewhe
 
 Feedback and comments are most welcome! The best place to leave comments is [here](https://github.com/citizen-cosmos/Citizen-Cosmos/issues/17). If the issue is already closed, feel free to open a new one. We like issues.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Citizen Cosmos is taking over the fuckgoolge validator on the Cosmos hub and launching a brand
 
 Dear Citizens of Cosmos,
@@ -64,7 +66,11 @@ This included migrations, infrastructure set up, planning of tasks and, of cours
 
 [@mrlp4](https://github.com/mrlp4) is helping us as a DevOps and [@nj](https://github.com/johnniecosmos) is the Citizen Cosmos community advocate. We are over the moon with these updates and are very excited to carry on building the community around Citizen Cosmos. 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Ecosystem comparison: Cosmos VS Polkadot ep.I
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Evmos: rule ‘em all
 
@@ -146,5 +152,7 @@ Evmos helps to exchange value between the two main blockchain ecosystems ETH & C
 When we can have such a powerfull computing platform, such as Ethereum on one hand, and Cosmos with it’s scalability and cross chain communication powers, on the other - we gainn nearly limitless possibilities for applications and reduce the cost of transactions between the 2 networks.
 
 We believe that blockchain has a future of interchain projects. Very soon we will see the benefits of collaboration between these ecosystems, which together occupy 90% of the DeFi market.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
