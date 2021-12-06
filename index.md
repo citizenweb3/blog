@@ -54,6 +54,8 @@ Please keep up with our announcements, as we hope to publish the roadmap, for th
 
 May the code be with us =)
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### New team members onboard Citizen Cosmos 
 
 The branding of Citizen Cosmos that [was announced a few weeks ago](https://www.citizencosmos.space/articles/validator-and-brand), has been gradually progressing. The branding included the revamping of the Citizen Cosmos podcast into a web3 brand. With the kick-off of its own [validator](https://www.mintscan.io/cosmos/validators/cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u) and the re-organization the public work we do with Cosmos Moscow, public docs, etc.
