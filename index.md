@@ -66,7 +66,7 @@ This included migrations, infrastructure set up, planning of tasks and, of cours
 
 ### Evmos: rule ‘em all
 
-**What is Evmos?**
+##### What is Evmos?
 Evmos, short for “EVM-on-Cosmos,” will allow Ethereum contracts to communicate with the Cosmos ecosystem. From the creators of the protocol:
 
 > Evmos is a scalable, high-throughput Proof-of-Stake blockchain that is fully compatible and interoperable with Ethereum.
@@ -77,7 +77,7 @@ Apart from that Cosmos-SDK is a super powerful building tool, allowing to, alrea
 
 To put all this into a different perspective - Evmos is set to become somewhat of a communication zone (let's use the already existing analogy in the Cosmos community - port) between 2 of the biggest ecosystems in the crypto world - Ethereum and Cosmos.  
 
-**Why did the creators of Evmos choose Cosmos?**
+##### Why did the creators of Evmos choose Cosmos?
 Cosmos, which bills itself as the internet of blockchains, is a decentralized network of independent yet interoperable blockchains that are able to exchange information and tokens between each other permissionlessly.
 
 Cosmos aims to address some of the issues faced by other blockchains — such as scalability, usability and governance — by providing the tools to help developers quickly build independent blockchains for a variety of use cases and enabling blockchains in the network to communicate with each other.
@@ -88,7 +88,7 @@ But, otherwise, Cosmos does have some weak sides, such as:
 - It's not such a widely used [smart contract](https://forkast.news/what-are-smart-contracts-what-are-they-used-for/) platform, like Ethereum
 - It’s yet to prove itself as a fully functioning, DeFi ecosystem
 
-**Why did the creators of Evmos choose Ethereum to bridge to?**
+##### Why did the creators of Evmos choose Ethereum to bridge to?
 Ethereum is a blockchain for apps and the core of the existing DeFi ecosystem in crypto. It's a network that securely executes and verifies application code, called smart contracts. It is also, probably, the biggest source of innovation and R&D in the crypto world.
 
 Ethereum offers an extremely flexible platform on top of which one can build decentralized applications using the native Solidity scripting language and Ethereum’s Virtual Machine. Dapp developers that deploy smart contracts on Ethereum benefit from a rich ecosystem of developer tooling and established best practices that have come with the maturity of the protocol.
@@ -99,7 +99,7 @@ But, it also carries such risks, as:
 - High comissions (L1)
 - Slower TX finality then maybe required for certain economic tools
 
-**How will I benefit from a combination of Cosmos and Ethereum?**
+##### How will I benefit from a combination of Cosmos and Ethereum?
 - A combination of the 2, means a full interoperable system, that has a benefit for the end user that needs to transfer their fund without a middleman (such as a CEX)
 -Ethereum users gain access to a variety of new services (and a whole new ecosystem) that doesn`t require such high fees
 - And if you are a Cosmos fan, you will gain to over 1400+ dApps that were are already on Ethereum 
@@ -125,11 +125,11 @@ The Cosmos vision of being a network of blockchains is achieved thanks to the us
 
 *When we combine it with Ethereum’s "Global computer and ecosystem for apps" we get the benefits of both worlds and minimize the disadvantages of each other.*
 
-**Use cases for developers.**
+##### Use cases for developers
 - The Evmos blockchain provides Ethereum developers to deploy their smart contracts to the Evmos EVM and get the benefits of a fast-finality Proof-of-Stake (PoS) chain. Developers will also benefit from highly-reliable testnet clients that can be used to test and deploy their contracts
 - Evmos will offer built-in interoperability functionalities with other Cosmos and BFT chains by using [IBC](https://cosmos.network/ibc). Developers can also benefit from using a bridge network to enable interoperability between mainnet Ethereum and Evmos. Either option above will allow for fast finality, using a PoS / BFT consensus engine.
 
-**Resume**
+##### Resume
 As of today, the blockchain world is still living in the reality of separate silos that can benefit a lot from being able to communicate one to another. In a world where UX is going towards minimalism, we need to start expreminting and making blockchains a more efficient and a friendlier place to exist and to work in. By connecting such strong, independent silos, we start to minimize UX for future usage, starting from a point of real usability (working blockchains), thus allowing for a future stronger, minimalistic UX where one can fully operate with different types of values and gain the benefit of both.
 
 Evmos helps to exchange value between the two main blockchain ecosystems ETH & Cosmos. For the end user this means the ability to benefit from both worlds and even solve certain security issues alng the way.
