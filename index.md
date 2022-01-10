@@ -159,4 +159,22 @@ We believe that blockchain has a future of interchain projects. Very soon we wil
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+### Changes to the Citizen Cosmos team
+
+Everything changes, including Citizen Cosmos. 
+
+With a very sad smile, yet with the warmest wishes on her future journey, Citizen Cosmos is saying goodbye to one of its founders and hosts, [Anna](https://www.citizencosmos.space/hosts/anna). Anna was an important, and a founding, member of the project. Most importantly, she was an inspiration for many of the ideas that Citizen Cosmos has achieved. We thank Anna for her input and ideas. Without them, we wouldn't be here today. 
+
+Here is a short letter Anna asked to share:
+
+> Hey everyone, Anna here. 
+
+> I never thought that I would write this, but I have decided to leave Citizen Cosmos. To be a founder and the host of Citizen Cosmos was a very powerful expirience for me. I am very grateful to everyone who listened to my voice and joined me on this curiocity-driven path. 
+
+> serejandmyself will carry on bieng the life of the party and the sole founder of Citizen Cosmos. 
+
+> It’s time for me to say an emotional goodbey to everyone and walk out into the future. Thank you and bye!
+
+
+
 
