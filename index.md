@@ -177,6 +177,4 @@ Here is a short letter Anna asked to share:
 
 > It’s time for me to say an emotional goodbey to everyone and walk out into the future. Thank you and bye!
 
-
-
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
