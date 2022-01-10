@@ -13,6 +13,8 @@
 
 - [Entry V, 3rd of December 2021, Earth time: EVMOS, rule 'em all](#evmos-rule-em-all)
 
+- [Entry VI, 10th of January 2022, Earth time: Changes to the Citizen Cosmos team](#changes-to-the-citizen-cosmos-team)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ###  Meet the new Citizen Cosmos website 
