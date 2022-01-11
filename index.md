@@ -15,6 +15,8 @@
 
 - [Entry VI, 10th of January 2022, Earth time: Changes to the Citizen Cosmos team](#changes-to-the-citizen-cosmos-team)
 
+- [Entry VII, 11th of January 2022, Earth time: Should we trust trends and dogmas blindly](#changes-to-the-citizen-cosmos-team)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ###  Meet the new Citizen Cosmos website 
@@ -180,5 +182,37 @@ Here is a short letter Anna passed us to share:
 We would like to note, that Citizen Cosmos will carry on functioning as planned, including producing and releasing content, validating networks and helping to build ecosystems.  
 
 May the code be with us!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Should we trust trends and dogmas blindly?
+
+Regardless of the market situation, the crypto industry is growing rapidly. We can witness blockchain technology being implemented in ways, which no one could consider 10 years ago.
+
+In our opinion, there are certain points, which might prove useful for the thorough understanding of the current and future situation of the crypto industry.
+
+#### Follow the people, not just the protocols
+
+A white paper can be the brain of a crypto project, but the heart of it - are the people. Everything that was or will be invented, was made by people (even AI algos that wrote books and code, did it with the help of people that wrote them). It is thanks to people that projects become successful or fail. There are plenty of examples in history: Henry Ford, Thomas Edison, Elon Musk, etc. Why is it so important to remember this?
+
+We believe there is huge significance to understanding the people championing a project you follow. When we do, we start to comprehend the set of targets, goals and moral values, which the founders correspond with. It becomes easier to decide whether to support its implementation and further development.
+
+This can be done in various ways, for instance: watch a conference featuring the founding team, listen to a podcast, like [Citizen Cosmos](https://www.citizencosmos.space/), or follow them on social networks and see what they say / promote.
+
+#### Communities are the strongest parts of the industry
+
+We can see what groups are capable of when they have a clear target (Wall Street Bets, Doge/Shiba followers, US Constitution auction, NFT communities, etc.). When people unite around a common goal, there aren't that many things that will prevent them from doing whatever it is they set out to do. We may see these examples in nature and animals. Hurricane winds. Ant trails. A volcano spewing lava, etc. 
+
+Unfortunately, certain ideas do not prove to be as great as a volcano spewing lava or not as determined as ants marching towards a sugar cube. Some ideas gather shape after they have been publicly discussed and improved. We think it is vital for ideas and thoughts to be delivered to their communities, as together and untied, these evolve and become an unstoppable force.
+
+> With strong communities - nothing is impossible!
+
+#### Beware of dogmas and loud trends
+
+If we are to stay open-minded and not trust everything that shines blindly, then there is a huge chance to strike more opportunities around us. Not that long ago, all we thought about, in terms of blockchain development, was TPS. And nothing but Bitcoin had a matter for most of us. 
+
+Then, there was Ethereum and the separation of the application layer. Alas, few people understood its potential for the development of the whole crypto ecosystem. Today, with IBC, Cosmos and other interchain protocols starting to conquer the crypto world - we once again see a lot of skepticism in the future of these ideas. But it is only when you remain open to the fresh and the new - then you are able to see the evolution.
+ 
+*The world has already changed. May the code (and the community) be with you.*
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
