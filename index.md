@@ -15,7 +15,7 @@
 
 - [Entry VI, 10th of January 2022, Earth time: Changes to the Citizen Cosmos team](#changes-to-the-citizen-cosmos-team)
 
-- [Entry VII, 11th of January 2022, Earth time: Should we trust trends and dogmas blindly](#changes-to-the-citizen-cosmos-team)
+- [Entry VII, 11th of January 2022, Earth time: Should we trust trends and dogmas blindly](#should-we-trust-trends-and-dogmas-blindly)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
