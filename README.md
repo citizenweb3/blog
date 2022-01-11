@@ -1,4 +1,4 @@
-# [The Citizen Cosmos blog](https://citizen-cosmos.github.io/blog/)
+# [The Citizen Cosmos manuscripts](https://citizen-cosmos.github.io/blog/)
 
 - [Our podcast](https://www.citizencosmos.space/)
 
