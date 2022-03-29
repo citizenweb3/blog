@@ -224,8 +224,6 @@ Then, there was Ethereum and the separation of the application layer. Alas, few 
 
 This guide is [written by Andrea Kovačić](https://andrew-kova.medium.com/ways-to-avoid-getting-hit-by-inflation-using-cryptocurrencies-while-earning-passive-income-80243c575ff5) for [Citizen Cosmos](https://www.citizencosmos.space/). We are a web3 ecosystem developer, helping to support, grow, build public, decentralized and open blockchain networks by providing reliable infrastructure, producing educational content and helping digital nations to grow. 
 
-**[Web3 link]()**
-
 In the last two years, a lot has changed. Uncertainty and volatility have risen in all asset classes. Being a saver is no longer an option as inflation is higher than the interest rates paid by the banks. This macroeconomic situation can be tricky, but there are ways to profit from this.
 
 #### General suggestions
