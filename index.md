@@ -17,6 +17,7 @@
 
 - [Entry VII, 11th of January 2022, Earth time: Should we trust trends and dogmas blindly](#should-we-trust-trends-and-dogmas-blindly)
 
+- [Entry VIII, 29th of March 2022, Earth time: Ways to avoid getting hit by inflation using cryptocurrencies while earning passive income](#)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ###  Meet the new Citizen Cosmos website 
@@ -216,3 +217,171 @@ Then, there was Ethereum and the separation of the application layer. Alas, few 
 *The world has already changed. May the code (and the community) be with you.*
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Ways to avoid getting hit by inflation using cryptocurrencies while earning passive income
+
+*This is a lengthy guide since we cover the reasons why we picked crypto investments in current macroeconomic conditions. We also cover 3 different investment strategies in detail.*
+
+**[Written by Andrea Kovačić](https://andrew-kova.medium.com/ways-to-avoid-getting-hit-by-inflation-using-cryptocurrencies-while-earning-passive-income-80243c575ff5)**
+
+**[Web3 link]()**
+
+In the last two years, a lot has changed. Uncertainty and volatility have risen in all asset classes. Being a saver is no longer an option as inflation is higher than the interest rates paid by the banks. This macroeconomic situation can be tricky, but there are ways to profit from this.
+
+#### General suggestions
+
+- Avoiding making unnecessary or impulsive spending should always be on top of everyone’s mind
+
+- Changing your diet towards food that is less prone to inflation than other foods, or start growing your veggies if you have the land
+
+- Fewer savings, more investments
+
+#### Investments
+
+Investments are maybe the most crucial part every person needs besides work to live their desired life. Money parked in your bank account will slowly bleed your wealth away, or it can happen overnight as it did in Russia as the conflict between Russia and Ukraine started. This stance risks individuals’ finances as people think cash is always the right solution. Inflation, government confiscation of wealth, centralization of power are all things that can hurt the population and their pockets if they don’t pay attention.
+
+Commodities like gold, oil, agricultural products tend to increase in price in inflationary periods; for this reason, they are called hedges. Remember that these assets do not guarantee to protect you from inflation; they are more of a mid to long-term solution.
+
+Stocks, real estate, and Treasury Inflation-Protected Securities (TIPS) can also be used for protection in times of monetary expansion. However, stocks can get hit quite heavily during inflation spikes (CPI readings). Real estate and TIPS are for mature and experienced investors. The cryptocurrency sector has stablecoins that track the price of fiat currencies 1:1. Stablecoins are an excellent tool for periods when investors don’t want exposure to crypto volatility. Note that stablecoins are risky even though their peg rarely moves, but you are still subject to inflation like a regular fiat currency. We will cover cryptocurrency investment strategies to offset inflation forces, protect your wealth and grow your purchasing power.
+
+Remember that you should continuously diversify your portfolio in various assets and non-correlated industries. You can always go back to cash, but remember that some asset classes are less liquid than others. It’s way harder to sell a house than a stock.
+
+#### Cryptocurrency investment strategies
+
+Over the last 3–4 years, the crypto universe has expanded in all possible directions. Decentralized Finance is home to many new investors and traders. NFTs kickstarted interest and possibilities for artists and people that enjoy art and collectibles. The metaverse needs to be built differently from our current infrastructure to prevent known issues with the centralization of power. And with all the censorship happening in the world today, financially excluded people or even nations, we see that crypto has to be part of our collective future. It holds the answer for the inflation problem. It’s important to emphasize how much crypto is vital in a world where sanctions are constantly introduced left and right, intermediaries apply high fees for sending money abroad, and governments monitor all your transactions. This guide will explore a few different ways to protect yourself from inflation.
+
+Suppose you live in an underbanked country or a heavily under censorship country. You will find a way to earn some extra income using staking, liquidity providing, and even a strategy like traditional savings. Now let’s get into it.
+
+#### Positive impacting inflation-Negative impacting inflation
+
+Millennials and the younger generations might not be familiar with inflation so let’s cover this first. The definition of inflation is that the money supply is increasing. If goods production stays the same, those goods will increase in value since there is a larger pool of money chasing the same amount of goods. Like all other things, money has its “price.” If there is more money circulating from one hand to another and if money is cheap to borrow (interest rates on loans), it will be less valuable, making all other things more expensive.
+
+Monetary or fiat inflation is an example of Negative impact inflation. It enriches the people who get the injection of freshly created credit first while diluting the general population and the savers. Every new loan a consumer takes is new money introduced into the economy.
+
+In Cryptocurrency, a mechanism allows you to secure the network while earning interest from the process. This process is called staking, the rewards are coming from inflation, but all savers are rewarded for securing the network this time. This way, people that are diluted are crypto traders and the ones that hold the asset without staking. In this system, inflation is used to incentivize and reward savers; this is an example of positive impact inflation.
+
+Before answering how to use this positive impact inflation, ask yourself how much risk you are willing to take. Cryptocurrencies are not guaranteed investments or regulated and are high-risk investments. This guide is focused on entertainment and educational purposes.
+
+#### Bitcoin and Proof-of-work
+
+We can say that Bitcoin has earned the title Store of Value (SoV) after the turmoil of the Corona crisis and since the era of quantitative easing. An allocation of your portfolio in BTC can be seen as a good practice even if you are not part of the cryptocurrency ecosystem. But earning a passive income on your BTC is another story (just as trusting that BTC will not go to 0 one day). You can deposit it on Celsius or another platform and earn some interest, but you are giving away the ownership of your assets. Wrapped BTC is another possibility, but there is third-party custody for the real BTC involved in most cases, adding another layer of risk on top. Our opinion is that holding BTC in cold storage is the only right way. There are safer, easier, and more lucrative options while adding a degree of diversification in the mix for generating yields on your assets.
+
+#### Proof-of-stake mechanism and staking rewards
+
+Most new cryptocurrencies are not based on PoW anymore, PoS chains are easier to start, and you don’t need to find miners to secure and produce blocks. There is a good reason behind this. Proof-of-Stake chains have incentives for security to remain high, governance is more accessible to execute than Proof-of-Work, and Proof-of-Stake chains can also support smart contracts. The speed of transaction finality is generally higher than its counterpart Proof-of-Work.
+
+Proof-of-Stake chains reward for staking ranges from; 5% to 100%+ depending on the chain you’re using. Staking rewards fluctuate as more or fewer people stake the token, but in most cases, the rewards are well worth the risk of price fluctuation of the underlying token. Staking is considered the easiest way of making a return from your tokens, and everyone should consider doing it if they plan on holding the tokens for more than six months. We recommend listening to our episode about staking and staking rewards to get a more in-depth view from someone whos working on PoS chains for a living:
+
+https://www.citizencosmos.space/stakingrewards
+
+Staked tokens are often locked for some time once staked, so you should start the unbounding process in advance if you want to sell or exchange your tokens. Besides staking, there are other ways to earn yields through Decentralized Finance (DeFi). Combining the two strategies will enhance your returns; we will cover these later in the guide.
+
+> Example 1
+
+Cosmos Hub $ATOM offers 15.58% per year and the possibility of being eligible for future airdrops. ATOM will be locked for 21 days after you unstake them, and they will not reward you for the duration. ATOM can be acquired on all major centralized exchanges and then sent over to Keplr wallet, the preferred wallet in Cosmos. Your ATOM is safe on Keplr, and you can use this wallet to interact with all kinds of protocols, from DeFi to NFTs.
+
+[![1.jpg](https://i.postimg.cc/W45rYsbz/1.jpg)](https://postimg.cc/bG2sscnf)
+
+By pressing stake, the validator list opens up, where you can choose your validators. If you want future guides like this one, stake with Citizen Cosmos and support us in the mission of bridging communities in an Interchain world.
+
+Once staked, your coins will earn you rewards. That is what we categorize as Positive impact inflation.
+
+> Example 2
+
+Osmosis $OSMO offers 68% per year and, like $ATOM, the possibility to be eligible for future airdrops. OSMO tokens will lock for 14 days after unstaking. OSMO can only be acquired on the Decentralised exchange Osmosis.zone. You will need Keplr and some ATOM to exchange them into OSMO. Note that the OSMO token is highly inflationary in the first years; these rewards will decrease. Still, for now, this is an excellent opportunity to capitalize on some juicy rewards.
+
+[![2.jpg](https://i.postimg.cc/wMXX9Zds/2.jpg)](https://postimg.cc/5QtY3Pyx)
+
+#### Providing liquidity on decentralized exchanges
+
+Liquidity providing/mining is a DeFi method in which participants contribute a portion of their crypto assets to various liquidity pools in exchange for tokens and fees. Liquidity mining has become popular because it generates passive income, i.e., you can profit from crypto liquidity mining without active investing decisions. Your benefits are determined by how much of a liquidity pool you own. Other DEX users then use this liquidity to swap assets.
+
+Over the last three years, many cryptocurrency users have been using DeFi for earning yields, and as the trading volumes are rising, so is the need for new DEXes in the space. The market cap of Decentralized exchanges has grown over $100 billion in less than three years.
+
+#### LP on Osmosis
+
+Osmosis is a decentralized blockchain project built on Cosmos that features an automated market maker (AMM). Users can pool liquidity and trade tokens of the Cosmos ecosystem with IBC enabled (Inter-Blockchain Communication protocol). You can listen to the mastermind and co-founder of Osmosis explaining himself: [Sunny Aggarwal](https://www.citizencosmos.space/osmosis).
+
+Requirements to provide liquidity on Osmosis: Kepler wallet and some ATOM (purchasable from a centralized exchange like Binance, FTX, Coinbase, etc..)
+
+> Step 1
+
+You need to do an IBC transfer. To deposit ATOM on Osmosis, you must transfer ATOM from his home blockchain to the Osmosis blockchain for liquidity or swapping. Look at this like that ATOM has to be a guest on the Osmosis blockchain so that he could be used in this Decentralized application; otherwise, we wouldn't be able to use those ATOMs on Osmosis.
+
+When connected to [Osmosis](https://app.osmosis.zone/) with Keplr you need to visit the [assets](https://app.osmosis.zone/assets) tab.
+
+From there, you need to bridge/deposit ATOM. Insert the amount you want to transfer, but leave some ATOM for future transactions.
+
+[![3.jpg](https://i.postimg.cc/dVH8QGgn/3.jpg)](https://postimg.cc/MnBcdf6j)
+
+> Step 2
+
+After ATOM is visible in your osmosis, you can head over to the pools tab. And decide on what pools you want to provide liquidity. Incentivized pools will reward you with the APR on the left of that pool. Choose a pool in which you want to participate.
+
+[![4.jpg](https://i.postimg.cc/J0LXYxB7/4.jpg)](https://postimg.cc/MM9XvyDg)
+
+Click on the pool and look at what the pool catalyst percent is. Most pools operate on 50–50%, but some are different, like the following one we will cover.
+
+[![5.jpg](https://i.postimg.cc/6pmvxtGm/5.jpg)](https://postimg.cc/DS1ZqV6r)
+
+If you want to provide $100 in this pool, you will need to keep $30 in ATOM, and $70 will need to be swapped to DVPN tokens. For 50–50% pools mentioned before, exchange half the amount and proceed normally on the next step.
+
+> Step 3
+
+Swapping is performed in the [trade](https://app.osmosis.zone/) tab. Swap into the coins you want to provide.
+
+> Step 4
+
+When you have the coins needed to provide liquidity, go back to the [pools](https://app.osmosis.zone/pools) tab to enter the pool you are trying to join. And select Add/remove liquidity.
+
+[![6.jpg](https://i.postimg.cc/tJp1NgLY/6.jpg)](https://postimg.cc/DJpy27fT)
+
+We want to add liquidity; by pressing MAX onto one asset, the other asset will be added automatically. Confirm the transaction with Keplr. This process can be described as bounding together those two tokens. Still, they are not earning us interest for now.
+
+> Step 5
+
+Now we take the bounded amount of tokens and select Start earning. The tokens you added as liquidity before will be displayed above this button. Press Start Earning, select the max button, and then choose the unbounding period. Tokens will remain in the pool indefinitely if you don’t remove the liquidity manually. Days unbounding means that your tokens will stay in the pool for that duration after you start the removing period, but they will still earn you rewards until they get unbounded. Higher the unbounding days, higher the interest paid. Confirm the transaction with keplr. And that’s it.
+
+[![7.jpg](https://i.postimg.cc/132fYBkx/7.jpg)](https://postimg.cc/bZ0yZxYL)
+
+Rewards are paid out daily in OSMO tokens, and you can see the clock under the [pools](https://app.osmosis.zone/pools) tab.
+
+[![8.jpg](https://i.postimg.cc/C1Vdw1Mm/8.jpg)](https://postimg.cc/McdzDzQQ)
+
+The rewards can be compounded with staking, or you can swap them in half and provide more liquidity in the same or other pools.
+
+There is another option which we will cover below.
+
+#### Stable coin savings on Anchor protocol
+
+Depending on the risk you’re willing to take, it would be good to have a percentage of your assets in a stablecoin. Stablecoins can be used for buying the dip in a coin you’re interested in or in case you need some quick cash to withdraw. Do you know what is better than a stablecoin? A stable coin that is passively making you money.
+
+[Terra station](https://chrome.google.com/webstore/detail/terra-station-wallet/aiifbnbfobpmeekipheeijimdpnlpgpp) is needed for interacting with Anchor protocol. Install the extension before moving on to the next step. Download the extensions from the official source. Save your seed phrases on a piece of paper, and then proceed.
+
+[Anchor protocol](https://app.anchorprotocol.com/) is a lending and borrowing protocol offering up to 19.5% yield on [stablecoin](https://coinmarketcap.com/alexandria/glossary/stablecoin) deposits. We can swap a portion of our OSMO rewards into UST, send it to Anchor, and start earning the yield without locking our funds.
+
+Step 1. You will need to Swap OSMO or any other coin to UST on Osmosis.
+
+Step 2. Go to the [Terra bridge](https://bridge.terra.money/) and select Osmosis → Terra. Under the Asset category, select UST. The destination address is your Terra station address from the extension you installed before. Copy and paste it into the destination address.
+
+[![9.jpg](https://i.postimg.cc/J4h0rSmV/9.jpg)](https://postimg.cc/QVRhS4H0)
+
+Confirm the transaction, and in about a minute or less, UST should be on Terra blockchain.
+
+Step 3. Go to the [Anchor protocol earn tab](https://app.anchorprotocol.com/earn) and click deposit.
+
+[![10.jpg](https://i.postimg.cc/B6gZsBVn/10.jpg)](https://postimg.cc/FdYXV3vM)
+
+Enter the amount you want, but leave a couple of dollars for future transaction fees. Anchor will auto-compound your rewards. You can extract them at any time without waiting.
+
+With Anchor, we conclude this guide. We hope this will help you better understand crypto and lead you forward in the world of personal finance.
+
+If you want to see more guides like this one or if you have any kind of suggestions, please join our [discord](https://discord.gg/9wZQfNJk2h) server and share your experience with us.
+
+Also, if you want to support us in continuing our work, you can delegate with us.
+
+[List](https://www.citizencosmos.space/staking) of networks we currently support.
+
+One final thing: all those strategies are risky. You should never invest more than you are willing to lose.
+
+[Twitter](https://twitter.com/cosmos_voice).
