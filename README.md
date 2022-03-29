@@ -18,4 +18,4 @@
 
 - [Entry VII, 11th of January 2022, Earth time: Should we trust trends and dogmas blindly](https://citizen-cosmos.github.io/blog/#should-we-trust-trends-and-dogmas-blindly)
 
-- [Entry VIII, 29th of March 2022, Earth time: Ways to avoid getting hit by inflation using cryptocurrencies while earning passive income]()
+- [Entry VIII, 29th of March 2022, Earth time: Ways to avoid getting hit by inflation using cryptocurrencies while earning passive income](https://github.com/citizen-cosmos/blog/blob/gh-pages/index.md#ways-to-avoid-getting-hit-by-inflation-using-cryptocurrencies-while-earning-passive-income)
