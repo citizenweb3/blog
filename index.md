@@ -222,7 +222,7 @@ Then, there was Ethereum and the separation of the application layer. Alas, few 
 
 *This is a lengthy guide since we cover the reasons why we picked crypto investments in current macroeconomic conditions. We also cover 3 different investment strategies in detail.*
 
-**[Written by Andrea Kovačić](https://andrew-kova.medium.com/ways-to-avoid-getting-hit-by-inflation-using-cryptocurrencies-while-earning-passive-income-80243c575ff5)**
+This guide is [written by Andrea Kovačić](https://andrew-kova.medium.com/ways-to-avoid-getting-hit-by-inflation-using-cryptocurrencies-while-earning-passive-income-80243c575ff5) for [Citizen Cosmos](https://www.citizencosmos.space/). We are a web3 ecosystem developer, helping to support, grow, build public, decentralized and open blockchain networks by providing reliable infrastructure, producing educational content and helping digital nations to grow. 
 
 **[Web3 link]()**
 
