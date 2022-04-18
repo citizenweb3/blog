@@ -18,6 +18,8 @@
 - [Entry VII, 11th of January 2022, Earth time. Should we trust trends and dogmas blindly](#should-we-trust-trends-and-dogmas-blindly)
 
 - [Entry VIII, 29th of March 2022, Earth time. Ways to avoid getting hit by inflation using cryptocurrencies while earning passive income](#ways-to-avoid-getting-hit-by-inflation-using-cryptocurrencies-while-earning-passive-income)
+
+- [Entry IX, 18th of April 2022, Earth time. Difference between custodial and non-custodial cryptocurrency wallets](#difference-between-custodial-and-non-custodial-cryptocurrency-wallets)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ###  Meet the new Citizen Cosmos website 
@@ -383,3 +385,102 @@ Also, if you want to support us in continuing our work, you can delegate with us
 One final thing: all those strategies are risky. You should never invest more than you are willing to lose.
 
 [Twitter](https://twitter.com/cosmos_voice).
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+### Difference between custodial and non-custodial cryptocurrency wallets
+
+This guide is [written by Andrea Kovačić](https://andrew-kova.medium.com/wallets-d859269f8e98) for [Citizen Cosmos](https://www.citizencosmos.space/) and is sponsored by the [Citizen Cosmos validator](https://www.citizencosmos.space/staking). Citizen Cosmos is a web3 ecosystem developer, helping to support, grow, build public, decentralized and open blockchain networks by providing reliable infrastructure, producing educational content and helping digital nations to further grow.
+
+#### Wallets
+
+You would think that cryptocurrencies don’t need a place to be stored* since they are digital, but they do. If you’re new to cryptocurrencies, wallets give you the ability to own your coins in the word's true meaning.  There are two types of wallets; software or hot wallets and hardware or cold wallets.
+
+Cold wallets are the most secure place to store crypto assets/your keys. Why are they called cold? They are not actively connected to the internet (it doesn't mean they can be called air-gapped), making them difficult to access by malicious third parties. Many crypto holders decide to keep their tokens on hot wallets even though some wallets are a bit hotter than others (in essence, a hot wallet is a hot wallet, though some wallets do provide more functionality to the end-user while being a bit less centralized).
+
+Let’s discuss the differences between wallets.
+
+* It's worth noting that technically tokens never really leave the blockchain and `go` into a wallet. Your wallet is a piece of software that allows you to interact with the blockchain, and, with the use of some magic and cryptography, your signature, of course - helps everyone verify that `these tokens` belong to you.
+
+[![1.png](https://i.postimg.cc/3NSGKdDG/1.png)](https://postimg.cc/7Jzh9P9P)
+
+#### Custodial and non-custodial wallets differences
+
+Wallets are recovered with private keys, meaning the holder can restore their wallets if their computers or phones get compromised and regain control of the number of coins they can spend. On the other side, the nature of custodial wallets implies that clients' funds are not under their complete control. If an exchange has tens of thousands of clients, it's not feasible to have a wallet for all clients.
+
+Holding tokens on exchanges might seem like a good deal for new people in crypto or people that don’t want the responsibility of storing the secret keys themselves. Still, exchanges do get hacked over time and, in some cases, leave the users hanging.
+
+Apart from [exchange hacks](https://www.wired.com/story/hack-binance-cryptocurrency-exchange/), some exchanges pull [exit scams](https://news.bitcoin.com/turkish-crypto-exchange-exit-scam-ceo-flees-country-people-detained-users-cannot-access-2-billion-funds/), so try always to use trusted exchanges that prove their legitimacy, but do not hold your coins long term there if you care about your cryptos.
+
+You will often hear people saying: not your keys, not your coins. This quote explains why you should always store your coins under the belt of your keys.
+
+Remember, exchanges are like stores. You should only use them when you need to buy or sell something. You do not use them as your house.
+
+Non-custodial wallets saved and will save a lot of people on their crypto journey a lot of pain.
+
+#### Non-custodial wallets
+
+As mentioned, non-custodial wallets come in 2 flavors, hot/software wallets and Cold/hard wallets.
+
+**Hot/software wallets**: they can be further divided into three subclasses:
+
+1. Web wallets:- are used through web browsers such as Google Chrome, Mozilla, Brave, etc. Metamask, Kepler, and Terrastation are a few examples of web/extension wallets. We encourage you to listen to a veteran in the non-custodial wallets space, co-creator of the keplr wallet [here](https://www.citizencosmos.space/dogemos-keplr).
+
+2.Mobile wallets:- are great for people always on the run. Most of them support QR codes scanners, which is excellent for fast transferring funds. I bet that we will see more and more of them in the coming years; with better UI and UX, they will be vital for the mass adoption of new crypto users.
+
+3. Desktop wallets:- are installed on your PC. They are more or less the same as the Mobile version but less secure because we download everything on our PCs. Check out this great video by [Andreas Antonopoulos](https://www.youtube.com/watch?v=QGKJ_zvzOlU).
+
+Upon installing those wallets, you will be directed to write down your secret seeds or words, do that on multiple papers, save them in more safe places and never share them with anyone. That is the most critical advice you will hear in the crypto space. 
+
+We highly suggest never, ever store your seed (encrypted or not) digitally. Computers get hacked. It's impossible to hack a paper through a computer, right? There are many ways to improve storing a seed. For example, several special steel plates (one of them [here](https://backupsteel.com/)) allow you to store them more securely, but breaking the seeds into more pieces and keeping them in several places is the safest. Of course, there are also multi-signature wallets, which is the same as when you and the bank have two keys (or more) needed to access the safe. Corporations commonly use multi-signature wallets to eliminate the risk of one party running away with the funds and to ensure funds are safu.
+
+**Cold/hardware wallets**: can be divided into a few subclasses, but in this post, we will talk about hardware/ device wallets. The wallet is used for storing cryptocurrencies in an offline way. With cold storage, the digital wallet is stored on a platform that is not connected to the internet, protecting the wallet from unauthorized access.
+Hardware wallets are always recommended, especially if the amount of the crypto you want to hold is bigger than the price of the device.
+Hardware wallets can interact with DeFi applications like other software wallets, it is somewhat slower to do so, but this is the price of more extensive security. It is possible to use a web wallet, such as Keplr or Metamask, as a layer between applications and your hardware wallet to make the setting a bit more secure.
+
+The most commonly used hardware wallets are Ledger (Nano S and nano X) and Trezor hardware wallets. Ledger is not entirely open-source, although it is more comfortable to use. We encourage you to explore but stick to audited and open-source hardware.
+
+The same advice for storing your seed phrases applies here. Keep them on a piece of paper or steel plate.
+
+#### What are non-custodial wallets used for
+
+Besides security, non-custodial wallets can interact with decentralized applications (dApps). Web3 brings us the possibility to connect with our wallets. Non-custodial wallets are used to sign transactions on all kinds of dApps.
+
+We want to cover the basics here, and everyone should know about staking in Proof-of-Stake chains.
+
+When you stake your tokens, you increase the network's security, and in return, you get a portion of the inflation.
+
+For example, let's explore the most commonly used wallet in the [Cosmos ecosystem](https://v1.cosmos.network/ecosystem/apps), the [Keplr wallet](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap).
+
+ATOM is the most widely known coin in the [Cosmos](https://cosmos.network/) and is listed on major cryptocurrency exchanges.
+
+Now let’s see how to stake your ATOM when you withdraw it from the centralized exchange.
+
+Step 1. Click stake:
+
+[![2.png](https://i.postimg.cc/c4z32tWy/2.png)](https://postimg.cc/HVQj7xjB)
+
+Step 2: You find a validator and click Manage:
+
+[![3.png](https://i.postimg.cc/436hY89s/3.png)](https://postimg.cc/2q55J7GK)
+
+Step 3: You enter the amount you want to delegate, and click Delegate. As a good practice you should leave some tokens for future fees:
+
+[![4.png](https://i.postimg.cc/9M1Rprbk/4.png)](https://postimg.cc/wyyjxxS5)
+
+Step 4: Approve the transaction with keplr:
+
+[![5.png](https://i.postimg.cc/KvCKJX7m/5.png)](https://postimg.cc/HV4skhPN)
+
+And that’s the whole story. You are now earning staking rewards for securing the network all while being safe from centralized exchange hacks.
+
+#### Conclusion
+
+We can't stress enough how important it is to move your funds away from centralized exchanges if you don't plan to trade your crypto frequently. It's always hard to lose something in our lives. If we can protect or prevent something from happening, we should always do so.
+
+As in investing, we should try to spread our funds in more than one non-custodial wallet if something goes wrong with any of them. This approach can mitigate some risks while sacrificing some readability and comfort of having everything in one place.
+
+If you want to support us in our mission of spreading educational content and aligning the goal of different communities, join our [discord server](https://discord.gg/kJaG3EucCX) and help us grow the interest for web3 to the masses.
+
+Or delegate to [Citizen Cosmos validator](https://www.citizencosmos.space/staking) to help us continue to write more quality content for the community.
