@@ -484,3 +484,7 @@ As in investing, we should try to spread our funds in more than one non-custodia
 If you want to support us in our mission of spreading educational content and aligning the goal of different communities, join our [discord server](https://discord.gg/kJaG3EucCX) and help us grow the interest for web3 to the masses.
 
 Or delegate to [Citizen Cosmos validator](https://www.citizencosmos.space/staking) to help us continue to write more quality content for the community.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+test fot roma
