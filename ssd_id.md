@@ -1,8 +1,14 @@
 ###  What is a self-sovereign digital ID?
 
-One of the Citizen Cosmos podcast episodes is dedicated to the problem of self-sovereign identity or SSI. 
+One of the Citizen Cosmos podcast episodes is dedicated to the problem of self-sovereign identity or SSI.  
 You can check out our [discussion](https://www.citizencosmos.space/cheqd) of its pros and cons with the CTO and co-founder of Cheqd Ankur Banerjee. 
 In this article, however, we want to dive deeper into the topic and understand what SSI is, how we can use it, and how it is different from public and private key pairs. 
+
+First, let’s figure out what digital identity is. Essentially, it is what we call the information of external agents that are either people or organizations, applications, etc. 
+It can contain surface information without unnecessary details or more critical data, including usernames, passwords, search and purchase history, birth date, and other essential features for our unique identification and private information. 
+In other words, it is a version of our social identity by which others can recognize us, communicate, and interact with us. On the one hand, storing all your information under one digital identity is pretty convenient as it significantly simplifies all your online activity. The system knows all your online preferences, can directly connect you to what you need, and make the process of logging in and purchasing fast and legit. 
+On the other hand, all this information is practically accessible to everyone as it’s stored on public servers. Your civil identity can be easily uncovered by companies that want to sell you stuff, government authorities that want to track your activities, or even by malefactors who may use it to steal from you or threaten you. Furthermore, you may like all your data to be just yours and not public. 
+After all, it’s supposed to be our human right to privacy. One way or another, digital identity is a challenging and complex subject, and it may not be that easy to keep all that is yours to yourself and simultaneously lead an active digital and social life.
 
 
 
