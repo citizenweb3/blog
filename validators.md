@@ -35,6 +35,7 @@ developers, engineers, business analytics, and marketing specialists.
 With its recent launch, Evmos has shown great potential for becoming one of the leading independent application chains, making it more straightforward for users 
 and developers to interact with each other cross-chain. It already unites several ambitious projects, some of which have no analogs in the ecosystem, 
 and keeps working on integrating more projects. 
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 If you want to support us in our mission of spreading educational content and aligning the goal of different communities, join our [discord server](https://discord.gg/kJaG3EucCX) and help us grow the interest for web3 to the masses.
