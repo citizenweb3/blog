@@ -2,7 +2,7 @@
 
 - [Tune your anthenas here humanoids!](https://www.citizencosmos.space/episodes)
 
-## Articles : [Validators](/blog/validators.html)
+## Articles : [Validators](/blog/validators.html) | [Hackatom2022](/blog/hackatom2022.html)
 
 ## Blog content
 - [Entry I, 09th of September 2020, Earth time. A new website for humanoids](#meet-the-new-citizen-cosmos-website)
