@@ -1,8 +1,8 @@
 - [Hackatom VII 2022, Seoul]
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Hackatom VI 2021 overview
+### [Citizen Cosmos](https://www.citizencosmos.space/). Hackatom VII 2022: Challanges Overview. 
 
-As [Hackatom VII 2022](https://www.buidl.asia/hackatom-seoul-2022) comes in just a month in Seoul, we at Citizen Cosmos decided to give you a weekly overview of this event. Each week before the event starts on July 26th, we’ll do short reviews related to Hackatom. Today,let’s talk about what we should expect during the event. 
+As [Hackatom VII 2022](https://www.buidl.asia/hackatom-seoul-2022) comes in less than a month in Seoul, we at Citizen Cosmos decided to give you a weekly overview of this event. Each week before the event starts on July 26th, we’ll do short reviews related to Hackatom. Today, let’s talk about what we should expect during the event. 
 
 HackAtom VII will host South Korea's best hackers. Teams will compete for a diverse range of prizes, rewarded to the best teams that build the Interchain vision​Aside from the hackathon. There will also be a series of free educational workshops throughout the event. 
 
@@ -12,7 +12,7 @@ The second challenge is the Hub Prize: Interchain Security. Its mission is to sp
 
 The third general challenge is the Application Prize: Cosmos-SDK. The task here is to build either a blockchain with the Cosmos SDK, a rewrite of an existing module, or a tool that improves the user experience of developing with the SDK. The organizers are mainly curious about determining how well contestants work with SDK. The requirement is to use the Cosmos SDK repository or a codebase like Atlas, Lens, or any other tool that provides UX improvements to SDK.
 
-Don’t forget to apply for the Hackatom VII and keep reading our digests. Next week we’ll talk about the event’s sponsors and their challenges! 
+Don’t forget to apply for the [Hackatom VII](https://twitter.com/buidl_asia) and keep reading our digests. Next week we’ll talk about the event’s sponsors and their challenges! 
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
