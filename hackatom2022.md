@@ -12,7 +12,7 @@ The second challenge is the Hub Prize: Interchain Security. Its mission is to sp
 
 The third general challenge is the Application Prize: Cosmos-SDK. The task here is to build either a blockchain with the Cosmos SDK, a rewrite of an existing module, or a tool that improves the user experience of developing with the SDK. The organizers are mainly curious about determining how well contestants work with SDK. The requirement is to use the Cosmos SDK repository or a codebase like Atlas, Lens, or any other tool that provides UX improvements to SDK.
 
-Don’t forget to apply for the Hackatom VII and keep reading our digests. Next time we’ll talk about the event’s sponsors and their challenges! 
+Don’t forget [to apply for the Hackatom](https://docs.google.com/forms/d/e/1FAIpQLSdaeyhkggmh3FW9syQnUXS8R7koRs_PQfSKfsC67mXayY4Kiw/viewform) and keep reading our digests. Next time we’ll talk about the event’s sponsors and their challenges! 
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
