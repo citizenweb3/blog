@@ -2,7 +2,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### [Citizen Cosmos](https://www.citizencosmos.space/). Hackatom VII 2022: Challanges Overview. 
 
-As [Hackatom VII 2022](https://www.buidl.asia/hackatom-seoul-2022) comes in less than a month in Seoul, we at Citizen Cosmos decided to give you a weekly overview of this event. Each week before the event starts on July 26th, we’ll do short reviews related to Hackatom. Today, let’s talk about what we should expect during the event. 
+As [Hackatom VII 2022](https://www.buidl.asia/hackatom-seoul-2022) comes in less than a month in Seoul, we at Citizen Cosmos decided to give you overview of this event. Each week before the event starts on July 26th, we’ll do short reviews related to Hackatom. Today, let’s talk about what we should expect during the event. 
 
 HackAtom VII precede the [BUILD ASIA event](https://twitter.com/buidl_asia) and will host South Korea's best hackers. Teams will compete for a diverse range of prizes, rewarded to the best teams that build the Interchain vision aside from the hackathon. There will also be a series of free educational workshops throughout the event. 
 
