@@ -2,6 +2,8 @@
 
 - [Tune your anthenas here humanoids!](https://www.citizencosmos.space/episodes)
 
+## Validating networks Updates: [Cosmos](/blog/cosmosnews.html) | [Evmos](/blog/evmosnews.html) | [Cyber](/blog/cybernews.html)
+
 ## Articles : [Validators](/blog/validators.html) | [Hackatom2022](/blog/hackatom2022.html)
 
 ## Blog content
