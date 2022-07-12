@@ -10,7 +10,9 @@
 Dear Cosmonauts, while recording a new episode of the podcast with Mark Jackson (the founder of Microtick), we have found out that, unfortunately,
 the Microtick network will be halted on the 1st of August. After this, the project will be named DiscoveryDEX and will be moved to L2 Blockchain (probably ETH). 
 Therefore, all TICK holders are to claim their tokens for the future DiscoveryDEX token. We have prepared a simple guide for you, both video and text version. 
-More detailed information you can find out in our [episode](https://www.citizencosmos.space/).        
+More detailed information you can find out in our [episode](https://www.citizencosmos.space/). 
+
+Please find here the original [guide](https://hackmd.io/rruIWgU6SXmMDmFn4tJpMw) from the DAO team. 
 
 ##### Video guide 
 
