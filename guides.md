@@ -9,7 +9,7 @@
 
 Dear Cosmonauts, while recording a new episode of the podcast with Mark Jackson (the founder of Microtick), we have found out that, unfortunately,
 the Microtick network will be halted on the 1st of August. After this, the project will be named DiscoveryDEX and will be moved to L2 Blockchain (probably ETH). 
-Therefore, all TICK holders are to claim their tokens for the future DiscoveryDEX token. We have prepared a simple guide for you, both video and text version. 
+Therefore, all TICK holders are to claim their tokens for the future DiscoveryDEX token. We have prepared a simple guide for you, both in video and text versions. 
 More detailed information you can find out in our [episode](https://www.citizencosmos.space/). 
 
 Please find here the original [guide](https://hackmd.io/rruIWgU6SXmMDmFn4tJpMw) from the DAO team. 
@@ -101,7 +101,7 @@ In explorer, please check the amount, validator, and memo.
 > Step 14
 
 Suppose you have forgotten to write an ETH address in the MEMO field. Don’t worry. You can do it again. 
-For this you need just to send 0.000001  amount of the TICK to following address: 
+To do this, you need to send the 0.000001 amount of the TICK to the following address: 
 micro1ee05vm4kw8yp2avx8gpxegynpytl5g5hfrexhm  (autodelegation for DiscoveryDEX val) with the following MEMO : 9AFABB473............
 
 > Step 14.1
@@ -118,6 +118,6 @@ Please check your transaction in explorer.
 [![14-2.png](https://i.postimg.cc/2jhbkrsP/14-2.png)](https://postimg.cc/Yj2q8Kq3)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-If you want to support us in our mission of spreading educational content and aligning the goal of different communities, join our [discord server](https://discord.gg/kJaG3EucCX) and help us grow the interest for web3 to the masses.
+If you want to support us in our mission of spreading educational content and aligning the goal of different communities, join our [Discord server](https://discord.gg/kJaG3EucCX) and help us grow the interest for web3 to the masses.
 
 Or delegate to [Citizen Cosmos validator](https://www.citizencosmos.space/staking) to help us continue to write more quality content for the community.
