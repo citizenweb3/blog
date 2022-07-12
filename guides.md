@@ -102,7 +102,7 @@ In explorer, please check the amount, validator, and memo.
 
 Suppose you have forgotten to write an ETH address in the MEMO field. Don’t worry. You can do it again. 
 To do this, you need to send the 0.000001 amount of the TICK to the following address: 
-micro1ee05vm4kw8yp2avx8gpxegynpytl5g5hfrexhm  (autodelegation for DiscoveryDEX val) with the following MEMO : 9AFABB473............
+micro1ee05vm4kw8yp2avx8gpxegynpytl5g5hfrexhm  (autodelegation for DiscoveryDEX val) with the MEMO : TX of the delegation operation transaction - (same ETH address) .
 
 > Step 14.1
 
