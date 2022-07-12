@@ -14,7 +14,7 @@ More detailed information you can find out in our [episode](https://www.citizenc
 
 ##### Video guide 
 
-[![Youtube](https://postimg.cc/QVkcjpW0)](https://youtu.be/fPQNcX7IbW "Microtick guide")
+[![Youtube](https://i.postimg.cc/G36KJK3w/0.png)](https://youtu.be/fPQNcX7IbW "Microtick guide")
 
 > Step 1
 
