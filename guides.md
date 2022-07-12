@@ -16,6 +16,8 @@ More detailed information you can find out in our [episode](https://www.citizenc
 
 [![Youtube](https://i.postimg.cc/G36KJK3w/0.png)](https://youtu.be/fPQNcX7IbW "Microtick guide")
 
+##### Text guide 
+
 > Step 1
 
 Please go to [frontier](https://frontier.osmosis.zone/). Open Assets and find the TICK token. 
