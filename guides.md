@@ -16,7 +16,7 @@ Please find here the original [guide](https://hackmd.io/rruIWgU6SXmMDmFn4tJpMw) 
 
 ##### Video guide 
 
-[![Youtube](https://i.postimg.cc/G36KJK3w/0.png)](https://youtu.be/fPQNcX7IbW "Microtick guide")
+[![Youtube](https://i.postimg.cc/G36KJK3w/0.png)](https://www.youtube.com/watch?v=fPQNcX7IbWc "Microtick guide")
 
 ##### Text guide 
 
