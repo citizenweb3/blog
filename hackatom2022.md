@@ -1,10 +1,10 @@
-- [Hackatom VII 2022, Seoul]
+- [HackAtom VII 2022, Seoul]
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### [Citizen Cosmos](https://www.citizencosmos.space/). Hackatom VII 2022: Challanges Overview. 
+### [Citizen Cosmos](https://www.citizencosmos.space/). HackAtom VII 2022: Challenges Overview. 
 
-As [Hackatom VII 2022](https://www.buidl.asia/hackatom-seoul-2022) comes in less than a month in Seoul, we at Citizen Cosmos decided to give you overview of this event. Before the event starts on July 26th, we’ll do occasional reviews related to Hackatom. Today, let’s talk about what we should expect during the event. 
+As [HackAtom VII 2022](https://www.buidl.asia/hackatom-seoul-2022) comes in less than a month in Seoul, we at Citizen Cosmos decided to give you overview of this event. Before the event starts on July 29th, we’ll do occasional reviews related to HackAtom. Today, let’s talk about what we should expect during the event. 
 
-HackAtom VII precede the [BUILD ASIA event](https://twitter.com/buidl_asia) and will host South Korea's best hackers. Teams will compete for a diverse range of prizes, rewarded to the best teams that build the Interchain vision aside from the hackathon. There will also be a series of free educational workshops throughout the event. 
+HackAtom VII precedes the [BUIDL ASIA event](https://twitter.com/buidl_asia) and will host South Korea's best hackers. Teams will compete for a diverse range of prizes, rewarded to the best teams that build the Interchain vision aside from the hackathon. There will also be a series of free educational workshops throughout the event. 
 
 There are three main challenges that participants will have to take part in to get the main prize. The first one is called Interchain Prize: Interoperability. The mission is to build anything that would push IBC forward. The event organizers confirm that this could be an application that leverages IBC in a novel way, a new IBC application-level packet type, improvements or modifications to lower levels of IBC, or implementation in new environments. The competitors should demonstrate their skills and talents to show how interoperability unlocks ingenuity.
 
