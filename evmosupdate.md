@@ -8,4 +8,21 @@
 
 - The Evmos Momentum Hackathon is coming soon! It is the first-ever Evmos Hackathon led by Web3 Scholarship. The upcoming prizes are worth $500k, and funding across DeFi, Infrastructure, Web3, and Metaverse is underway! Check out the information about the event: https://medium.com/@HuobiIncubator/introducing-evmos-get-momentum-global-hackathon-the-first-ever-evmos-hackathon-leading-by-web3-24c5016c17.
 
- - This week has been pretty stable for $EVMOS. The price went up and down but ended up where it started - at $2.27. So the inflation is 128%, and the staking APR has slightly grown above 500%. 
+ - This week has been pretty stable for EVMOS. The price went up and down but ended up where it started - at $2.27. So the inflation is 128%, and the staking APR has slightly grown above 500%. 
+
+**Citizen Cosmos - your trusted validator.**
+
+Staking with us - https://www.citizencosmos.space/staking
+
+
+Join us on our website or on one of your favorite platforms: 
+
+- [Apple podcasts](https://clck.ru/sGee3)
+
+- [Spotify](https://clck.ru/sGef8)
+
+- [Google](https://clck.ru/sGefm)
+
+- [Overcast](https://clck.ru/sGegJ)
+
+- [YouTube](https://clck.ru/sGegw)
