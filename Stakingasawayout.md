@@ -72,6 +72,8 @@ The results are simple:
 
 Citizen Cosmos - your trusted validator.
 
+Staking with us - https://www.citizencosmos.space/staking
+
 
 Join us on our website or on one of your favorite platforms: 
 
