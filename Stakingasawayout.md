@@ -1,6 +1,8 @@
 #Staking as a way out.
 ===========================================
 
+[![photo-5939320887511723527-y.jpg](https://i.postimg.cc/YSkcHYp7/photo-5939320887511723527-y.jpg)](https://postimg.cc/fVHq73tq)
+
 What's happening in the cryptocurrency market? We're in a deep bear market. Crypto is gradually decreasing. Some investors lose their patience, causing intense panic. Selling at the bottom of the market means fixing prices. Buying at the top of the market when the crypto is at its peak is by far not the most intelligent move.
 
 The best strategy, in this case, is to buy more coins from fundamental projects such as Cosmos while the price is moderate. But what to do if you have already entered the crypto with all available funds? Learn more below.
