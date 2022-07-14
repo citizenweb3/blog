@@ -1,4 +1,4 @@
-#Evmos Digest till July 12
+**Evmos weekly Digest**
 ===========================
 - An online crypto toolbox CoinTool has started to support Evmos. Now we can all review and revoke approvals! Check out the app here: https://cointool.app/approve/evmos 
 
