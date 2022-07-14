@@ -62,3 +62,18 @@ Based on this, the value of coins lies in the value of the network, its function
 Therefore, do not be afraid to create your digital values. The main thing is to remember to fulfill obligations.
 
 Let us know what your favorite coins and tokens are in the comments.
+
+Citizen Cosmos - your trusted validator.
+
+
+Join us on our website or on one of your favorite platforms: 
+
+- [Apple podcasts](https://clck.ru/sGee3)
+
+- [Spotify](https://clck.ru/sGef8)
+
+- [Google](https://clck.ru/sGefm)
+
+- [Overcast](https://clck.ru/sGegJ)
+
+- [YouTube](https://clck.ru/sGegw)
