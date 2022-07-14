@@ -72,3 +72,18 @@ Let's see how it works.
    Depending on the terms and conditions of the contract, the requirements for its implementation are prescribed with high accuracy. All transactions are recorded in the blockchain ledger and become immutable. No one can edit or make changes to these entries.
 
 In what areas do you think using smart contracts will be helpful?
+
+Citizen Cosmos - your trusted validator.
+
+
+Join us on our website or on one of your favorite platforms: 
+
+- [Apple podcasts](https://clck.ru/sGee3)
+
+- [Spotify](https://clck.ru/sGef8)
+
+- [Google](https://clck.ru/sGefm)
+
+- [Overcast](https://clck.ru/sGegJ)
+
+- [YouTube](https://clck.ru/sGegw)
