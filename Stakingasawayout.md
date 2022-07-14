@@ -52,7 +52,7 @@ You may ask, where is this quiet and safe harbor to save the coins? Of course, c
 Staking using non-custodial wallets is the most reasonable strategy. Your coins will remain stored in your non-custodial wallet. When staking, your funds are not dead weight.
 
 
-As usual, the bear market turns into a bull market rather quickly. Not everyone has time to jump into a rocket taking off. At this moment, it is essential to ALREADY BE ON BOARD!
+As usual, the bear market turns into a bull market rather quickly. Not everyone has time to jump into a rocket taking off. At this moment, it is essential to already be on board!
 
 
 The results are simple:
