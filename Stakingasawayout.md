@@ -13,7 +13,7 @@ Let's take a closer look at a couple of recent news:
 
 1. According to Sam Bankman-Fried, exchanges do not have the liquidity they claim.
 
-Sam Bankman-Fried, the founder of the FTX cryptocurrency exchange, said that some interactions are already secretly insolvent.
+Sam Bankman-Fried, the founder of the [FTX cryptocurrency exchange](https://ftx.com), said that some interactions are already secretly insolvent.
 
 Some small crypto exchanges are “quasi-insolvent.” So it was stated in an interview with Forbes by FTX founder Sam Bankman-Fried, although he did not specify which deals he was talking about. However, he noted that some companies have "gone too far."
 
@@ -24,7 +24,7 @@ Some small crypto exchanges are “quasi-insolvent.” So it was stated in an in
 2. Coinbase announced plans for expansion in the crypto market. They already have offices in Germany and the UK, and soon there will be offices in the Netherlands, Spain, Italy, and France.
 
 
-Here is the statement from Coinbase:
+Here is the statement from [Coinbase](https://www.coinbase.com/ru/):
 
 “During market downturns, it can be tempting to shy away from international expansion. However, we first launched in the UK and EU during the bear market in 2015, and the move paid off when the recovery began a few years later. We will continue to expand globally and make everything possible to develop cryptoeconomics."
 
@@ -46,10 +46,10 @@ We have already mentioned that you should not store your coins in custodial wall
 
 Strategy
 
-You may ask, where is this quiet and safe harbor to save the coins? Of course, cold non-custodial wallets are the obvious way out. However, there is a simpler and more efficient way - staking!
+You may ask, where is this quiet and safe harbor to save the coins? Of course, cold non-custodial wallets are the obvious way out. However, there is a simpler and more efficient way - [staking!](https://www.citizencosmos.space/staking)
 
 
-Staking using non-custodial wallets is the most reasonable strategy. Your coins will remain stored in your non-custodial wallet. When staking, your funds are not dead weight.
+Staking using [non-custodial wallets](https://youtube.com/shorts/WLSikBfgqDc?feature=share) is the most reasonable strategy. Your coins will remain stored in your non-custodial wallet. When staking, your funds are not dead weight.
 
 
 As usual, the bear market turns into a bull market rather quickly. Not everyone has time to jump into a rocket taking off. At this moment, it is essential to already be on board!
@@ -69,11 +69,8 @@ The results are simple:
 
 - Prepare for a sudden high-speed take-off, and don't leave the spaceship, so the rocket doesn't take off without you.
 
-
-Citizen Cosmos - your trusted validator.
-
-Staking with us - https://www.citizencosmos.space/staking
-
+**Citizen Cosmos validator - [stake with us](https://www.citizencosmos.space/staking)**
+------------------------
 
 Join us on our website or on one of your favorite platforms: 
 
