@@ -76,10 +76,8 @@ Let's see how it works.
 
 In what areas do you think using smart contracts will be helpful?
 
-**Citizen Cosmos - your trusted validator.**
-
-Staking with us: https://www.citizencosmos.space/staking
-
+**Citizen Cosmos validator - [stake with us](https://www.citizencosmos.space/staking)**
+------------------------
 
 Join us on our website or on one of your favorite platforms: 
 
