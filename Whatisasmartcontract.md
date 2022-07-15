@@ -1,5 +1,8 @@
 **What is a smart contract?**
 =======================
+
+[![Discord-Post-53-1.png](https://i.postimg.cc/JzvRmzSN/Discord-Post-53-1.png)](https://postimg.cc/4Y6DQsfy)
+
 What is a smart contract? Let's first see how a regular contract works. Two parties, A and B, want to conclude a contract. They need the services of a third party they can trust to keep up with the contract. Smart contracts eliminate dependency and enable the automatic execution of contracts.
 If we compare ordinary and smart contracts, smart contracts have apparent advantages.
 
