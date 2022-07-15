@@ -1,5 +1,8 @@
 **Tokens and coins**
 ======================================================
+
+[![Discord-Post-54.png](https://i.postimg.cc/x1Scyqps/Discord-Post-54.png)](https://postimg.cc/vc3YG8s9)
+
 Everyone can create their currency.
 
 The main question, however,  is how will this money be provided? Thanks to blockchain and smart contracts, we can create our values. One might question themselves, what makes these digital values so valuable?
