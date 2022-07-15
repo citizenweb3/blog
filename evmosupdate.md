@@ -10,10 +10,8 @@
 
  - This week has been pretty stable for EVMOS. The price went up and down but ended up where it started - at $2.27. So the inflation is 128%, and the staking APR has slightly grown above 500%. 
 
-**Citizen Cosmos - your trusted validator.**
-
-Staking with us - https://www.citizencosmos.space/staking
-
+**Citizen Cosmos validator - [stake with us](https://www.citizencosmos.space/staking)**
+------------------------
 
 Join us on our website or on one of your favorite platforms: 
 
