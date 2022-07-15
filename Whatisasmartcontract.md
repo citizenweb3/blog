@@ -37,14 +37,14 @@ If we compare ordinary and smart contracts, smart contracts have apparent advant
 • Money transaction
    In smart contracts, all conditions are predetermined and set in advance. As soon as the condition is met, the transfer of funds is carried out automatically.
 
-• Transparency
+•  [Transparency](https://etherscan.io)
    100% transparency around the clock. Any party can view the terms and transactions of the smart contract.
 
 • Storage
    Smart contracts do not require paper storage and allow you to instantly track the entire history of the fulfillment of the terms of the contract and transactions.
 
 • Expenses
-   Smart contracts offer low commissions because they do not require intermediaries to execute them. Only the commission of the leading blockchain network in which the smart contract is implemented is charged.
+   Smart contracts offer [low commissions](https://www.ethgasstation.info) because they do not require intermediaries to execute them. Only the commission of the leading blockchain network in which the smart contract is implemented is charged.
 
 **What is a smart contract?**
  
@@ -55,7 +55,7 @@ If we compare ordinary and smart contracts, smart contracts have apparent advant
 
 Rachel arrived at the airport, but her flight was delayed. However, this inconvenience can benefit Rachel, as according to the smart contract with the insurance company, she will instantly receive compensation for the delayed flight. Imagine that there is already a smart running contract with an insurance company. This contract tracks delayed flights, and as soon as the delay is more than 2 hours, all insured persons, including our Rachel, automatically receive compensation in their account.
 Let's see how it works.
- An insurance company issues its clients a smart contract on the Ethereum blockchain. This smart contract is connected to airport databases and keeps track of flight delays. If any flight is delayed by more than X hours, automatic compensation occurs, and Rachel gets the money into her account.
+ An insurance company issues its clients a smart contract on the [Ethereum blockchain](https://ethereum.org/en/). This smart contract is connected to airport databases and keeps track of flight delays. If any flight is delayed by more than X hours, automatic compensation occurs, and Rachel gets the money into her account.
 
 **What are the bottom-line benefits of smart contracts?**
 
