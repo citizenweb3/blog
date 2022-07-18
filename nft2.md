@@ -1,6 +1,8 @@
 **Is NFT a useless toy or a severe technology?**
 ===========================
 
+[![Discord-Post-55.png](https://i.postimg.cc/2SN92Dkm/Discord-Post-55.png)](https://postimg.cc/3d9Zxz0b)
+
 The hype around NFT is already subsiding, and sales of NFT images have come to naught. But is the technology of non-fungible tokens as useless as they say lately.
  
  The most familiar tokens are subway cards. We buy a subway token to ride the subway. If earlier only states and large corporations could issue their tokens, now everyone can issue them within 15 minutes.
