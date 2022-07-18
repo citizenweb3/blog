@@ -62,6 +62,9 @@ If you fulfill your duties, the token equals 1 hour of your work. But there are 
 
 Based on this, the value of coins lies in the value of the network, its functionality, and the importance of tokens in the performance of services.
 
+**PS**
+
+But this is all super subjective and at the end of the day its not what matters.
 Therefore, do not be afraid to create your digital values. The main thing is to remember to fulfill obligations.
 
 Let us know what your favorite coins and tokens are in the comments.
