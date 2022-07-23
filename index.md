@@ -1,7 +1,7 @@
 # Manuscripts of [Citizen Cosmos](https://www.citizencosmos.space/)
 
 - [Tune your anthenas here humanoids!](https://www.citizencosmos.space/episodes)
-- Episodes (Transcript\Articles\Listen): [Ep.64 OA](/blog/64oa.html)   
+- Episodes (Transcript\Articles\Listen): [Ep.63 Microtick](/blog/63microtick.html)   
 
 ## Validating networks Updates: [Cosmos](/blog/cosmosnews.html) | [Evmos](/blog/evmosnews.html) | [Cyber](/blog/cybernews.html)
 
