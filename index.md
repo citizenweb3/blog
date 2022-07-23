@@ -1,6 +1,7 @@
 # Manuscripts of [Citizen Cosmos](https://www.citizencosmos.space/)
 
 - [Tune your anthenas here humanoids!](https://www.citizencosmos.space/episodes)
+- Episodes (Transcript\Articles\Listen): [Ep.63 Microtick](/blog/63microtick.html)   
 
 ## Validating networks Updates: [Cosmos](/blog/cosmosnews.html) | [Evmos](/blog/evmosnews.html) | [Cyber](/blog/cybernews.html)
 
@@ -490,3 +491,5 @@ As in investing, we should try to spread our funds in more than one non-custodia
 If you want to support us in our mission of spreading educational content and aligning the goal of different communities, join our [discord server](https://discord.gg/kJaG3EucCX) and help us grow the interest for web3 to the masses.
 
 Or delegate to [Citizen Cosmos validator](https://www.citizencosmos.space/staking) to help us continue to write more quality content for the community.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcitizen-cosmos.github.io%2Fblog%2F&count_bg=%23A9E95D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
