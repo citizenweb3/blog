@@ -3,7 +3,7 @@
 - [Tune your anthenas here humanoids!](https://www.citizencosmos.space/episodes)
 - Episodes (Transcript\Articles\Listen): [Ep.63 Microtick](/blog/63microtick.html)   
 
-## Validating networks Updates: [Cosmos](/blog/cosmosnews.html) | [Evmos](/blog/evmosnews.html) | [Cyber](/blog/cybernews.html)
+## Validating networks Updates: [Cosmos/Evmos/Cyber](/blog/cosmosnews.html)
 
 ## Articles : [Validators](/blog/validators.html) | [Hackatom2022](/blog/hackatom2022.html)
 
