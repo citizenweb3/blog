@@ -1,13 +1,15 @@
-## Validating networks Updates: Cosmos | [Evmos](/blog/evmosnews.html) | [Cyber](/blog/cybernews.html)
+## Validating networks Updates: Cosmos | Evmos | Cyber
 
 ## Articles : [Validators](/blog/validators.html) | [Hackatom2022](/blog/hackatom2022.html)
 
-## Cosmos weekly digest 
+## Weekly digest 
 - [4-11 of July 2022](#4-11-of-July-2022)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-###  4-11 of July 2022 
+### 4-11 of July 2022 
+
+####Cosmos
 
 - Peng Zhong stepped down as CEO a month after former company head Jae Kwon said he would lead NewTendermint, part of Ignite's split into two firms in May. During his time at the firm, many knew him for developing the first Cosmos crypto wallet, Voyager, later renamed Lunie, and helping to introduce liquid staking. The reason for the decision is yet unclear. 
 
