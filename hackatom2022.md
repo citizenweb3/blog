@@ -1,6 +1,11 @@
 - [HackAtom VII 2022, Seoul]
+
+### Blog Content
+[Pt. 1](#hackatom-vii-2022:-challenges-overview.)
+[Pt.2](#Event’s-sponsors-and-challenges-(pt.2))
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### [Citizen Cosmos](https://www.citizencosmos.space/). HackAtom VII 2022: Challenges Overview. 
+### HackAtom VII 2022: Challenges Overview. 
 
 As [HackAtom VII 2022](https://www.buidl.asia/hackatom-seoul-2022) comes in less than a month in Seoul, we at Citizen Cosmos decided to give you overview of this event. Before the event starts on July 29th, we’ll do occasional reviews related to HackAtom. Today, let’s talk about what we should expect during the event. 
 
@@ -14,6 +19,25 @@ The third general challenge is the Application Prize: Cosmos-SDK. The task here 
 
 Don’t forget [to apply for the Hackatom](https://docs.google.com/forms/d/e/1FAIpQLSdaeyhkggmh3FW9syQnUXS8R7koRs_PQfSKfsC67mXayY4Kiw/viewform) and keep reading our digests. Next time we’ll talk about the event’s sponsors and their challenges! 
 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+###  Event’s sponsors and challenges (pt.2)
+
+The Hackatom VII is coming in just ten days in Seoul, so it’s time to get to know who sponsors this event. Moreover, we shall cover the special challenges for the participants that the sponsors have prepared. 
+
+There are several sponsorship categories. The main one is the Platinum which includes Juno and Osmosis blockchains. Next is the Bronze, with Celestia, Crescent, Provalidator, Konstellation, Agoric, and Persistence. The Citizen Cosmos podcast is also a sponsor! We provide media coverage for the event and help promote it. You can learn more about sponsors and their contributions on the official website. 
+
+Let’s look at the challenges the Platinum sponsors Juno and Osmosis have provided for the contestants. The Osmosis challenge is called “Osmosis track: CosmWasm-related challenge. Its mission is to build a CosmWasm application that will interact with Osmosis AMM using its custom bindings. The participants will have to write a contract leveraging this functionality to produce some helpful protocols to enhance the Osmosis ecosystem. Finally, the app should be deployed to the Osmosis testnet and provide a UI. The requirements for winning the challenge are pretty straightforward, but the Osmosis team also shares their ideas for inspiration: 
+Maker DAO like stablecoin using Osmosis for TWAP price oracle and liquidation
+Autocompounder for Osmosis LP shares
+Futures or options on a token using the AMM for settlement
+  
+The Juno challenge is also related to CosmWasm. It has a mission to write a CosmWasm contract that runs on Juno testnet and demonstrates the power of CosmWasm IBC to create a meaningful product-level application (not just R&D). Juno is currently the largest deployment of permissionless CosmWasm in the Cosmos ecosystem. They encourage many projects to build on their chain and focus on governance and composability. In addition, they are looking at IBC to enable more composability of DAOs and other protocols with other Cosmos blockchains. The recommendations Juno gives to the participants are the following: 
+Leverage Interchain Accounts for a DAO to stake assets on a remote chain (that doesn’t have CosmWasm)
+Write a custom protocol to move NFTs between Juno and Stargaze testnets (both have CosmWasm)
+Build an “AMM router” that swaps tokens either on JunoSwap (local) or Osmosis (via custom IBC protocol), depending on the best current rate.
+Stay with us and learn more about Hackatom VII in Seoul. Next time we’ll talk about the judges who will decide the winner of the challenges! 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
