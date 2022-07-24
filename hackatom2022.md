@@ -1,8 +1,8 @@
 - [HackAtom VII 2022, Seoul]
 
 ### Blog Content
-[Pt. 1](#hackatom-vii-2022-:-challenges-overview)
-[Pt.2](#
+[Pt. 1](#hackatom-vii-2022:-challenges-overview.)
+[Pt.2](#Event’s-sponsors-and-challenges-(pt.2))
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### HackAtom VII 2022: Challenges Overview. 
@@ -22,7 +22,7 @@ Don’t forget [to apply for the Hackatom](https://docs.google.com/forms/d/e/1FA
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### [Hackatom VII](https://www.buidl.asia/hackatom-seoul-2022), event’s sponsors and challenges (pt.2)
+###  Event’s sponsors and challenges (pt.2)
 
 The Hackatom VII is coming in just ten days in Seoul, so it’s time to get to know who sponsors this event. Moreover, we shall cover the special challenges for the participants that the sponsors have prepared. 
 
