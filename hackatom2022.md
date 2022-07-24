@@ -1,11 +1,11 @@
 - [HackAtom VII 2022, Seoul]
 
 ### Blog Content
-[Pt. 1](#hackatom-vii-2022:-challenges-overview.)
-[Pt.2](#Event’s-sponsors-and-challenges-(pt.2))
+- [Pt.1](#hackatom-vii-2022:-challenges-overview)
+- [Pt.2](#Event’s-sponsors-and-challenges-(pt.2))
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### HackAtom VII 2022: Challenges Overview. 
+### HackAtom VII 2022: Challenges Overview
 
 As [HackAtom VII 2022](https://www.buidl.asia/hackatom-seoul-2022) comes in less than a month in Seoul, we at Citizen Cosmos decided to give you overview of this event. Before the event starts on July 29th, we’ll do occasional reviews related to HackAtom. Today, let’s talk about what we should expect during the event. 
 
