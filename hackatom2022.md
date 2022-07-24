@@ -2,7 +2,7 @@
 
 ### Blog Content
 - [Pt.1](#hackatom-vii-2022:-challenges-overview)
-- [Pt.2](#Event’s-sponsors-and-challenges-(pt.2))
+- [Pt.2](#Events-sponsors-and-challenges-(pt.2))
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### HackAtom VII 2022: Challenges Overview
