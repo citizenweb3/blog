@@ -27,18 +27,9 @@ NFTs are tightly integrated into our lives, and most likely, the whole world aro
 
 What tokens would you buy at the presale?
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Citizen Cosmos - your trusted validator.**
 
-Staking with us - https://www.citizencosmos.space/staking
+If you want to support us in our mission of spreading educational content and aligning the goals of various interchain communities, join our [discord server](https://discord.gg/kJaG3EucCX) and help us grow the interest for web3 to the masses.
 
-Join us on our website or on one of your favorite platforms: 
-
-- [Apple podcasts](https://clck.ru/sGee3)
-
-- [Spotify](https://clck.ru/sGef8)
-
-- [Google](https://clck.ru/sGefm)
-
-- [Overcast](https://clck.ru/sGegJ)
-
-- [YouTube](https://clck.ru/sGegw)
+Or delegate to [Citizen Cosmos validator](https://www.citizencosmos.space/staking) to help us continue to produce more quality content for the community.
