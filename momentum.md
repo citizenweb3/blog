@@ -24,3 +24,11 @@ There is also the Grand Champion award for the submission, which the judging pan
 The Momentum Hackathon also includes a series of educational workshops on building and launching projects on Evmos. Moreover, each week there is AMA for Q&A sessions. 
 The team of judges for the contest is also pretty impressive! Among the jury members of the Hackathon are Praneeth Srikanti, the investment partner of Ethereal Ventures; Rain&Coffee, the research analyst from Maven11 Capital; Jim Parillo, the general partner of Figment Capital; Liam, the business development manager from Evmos, and many more! 
 We highly encourage you to follow the Evmos Momentum Hackathon because it’s a grand event for both Evmos and the entire ecosystem that will contribute to the significant and ongoing process of building the decentralized community! 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+If you want to support us in our mission of creating and spreading educational content and aligning the goal of different communities, please stake with us (guide you can find [here](https://www.citizencosmos.space/staking)) 
+- [EVMOS](https://www.mintscan.io/evmos/validators/evmosvaloper1mtwvpdd57gpkyejd566s24afr9zm5ryq8gwpvj) 
+- [ATOM](https://www.mintscan.io/cosmos/validators/cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u) 
+- [BOOT](https://cyb.ai/network/bostrom/hero/bostromvaloper1f7nx65pmayfenpfwzwaamwas4ygmvalqj6dz5r)
+
+and join our [Discord server](https://discord.gg/kJaG3EucCX) and help us grow the interest for web3 to the masses.
