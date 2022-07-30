@@ -5,7 +5,7 @@
 
 ## Validating networks Updates: [Cosmos/Evmos/Cyber](/blog/cosmosnews.html)
 
-## Articles : [Validators](/blog/validators.html) | [Hackatom2022](/blog/hackatom2022.html)
+## Articles : [Validators](/blog/validators.html) | [Hackatom2022](/blog/hackatom2022.html)  | [Evmos Momentum Hackathon](/blog/momentum.html)
 
 ## Guides : [Microtick guide](/blog/guides.html)
 
