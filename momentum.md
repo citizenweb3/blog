@@ -19,10 +19,12 @@ For the categories mentioned above, the prizes are as follows:
 2nd Prize — $30,000 + Demo Day Opportunity + Funding Opportunity
 3rd Prize — $20,000 + Demo Day Opportunity + Funding Opportunity
 
-     5. EVM Migration Award. This prize category is for the projects that will take the initiative to bring solid solutions to the Evmos ecosystem. The two winning projects will gain $10,000 each. 
+EVM Migration Award. This prize category is for the projects that will take the initiative to bring solid solutions to the Evmos ecosystem. The two winning projects will gain $10,000 each. 
+
 There is also the Grand Champion award for the submission, which the judging panel will deem to be the strongest of all submissions. The project should solve a real problem in the Evmos ecosystem, and the solution should be able to be utilized in a short amount of time and scaled up. The award recipient will receive $80,000! 
 The Momentum Hackathon also includes a series of educational workshops on building and launching projects on Evmos. Moreover, each week there is AMA for Q&A sessions. 
 The team of judges for the contest is also pretty impressive! Among the jury members of the Hackathon are Praneeth Srikanti, the investment partner of Ethereal Ventures; Rain&Coffee, the research analyst from Maven11 Capital; Jim Parillo, the general partner of Figment Capital; Liam, the business development manager from Evmos, and many more! 
+
 We highly encourage you to follow the Evmos Momentum Hackathon because it’s a grand event for both Evmos and the entire ecosystem that will contribute to the significant and ongoing process of building the decentralized community! 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
