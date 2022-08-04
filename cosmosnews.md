@@ -5,6 +5,7 @@
 ## Weekly digest 
 - [4-11 of July 2022](#4-11-of-July-2022)
 - [11-24 July](#evmos&cosmos-news-till-july-24)
+- [24-4 Jul/Aug](#evmos&cosmos-news-till-aug-4)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -35,3 +36,19 @@
 - New COSMOS app v.2.34.6 is available to download in LedgerLive This version restores IBC transactions 
 
 - The problem of crypto wallets typically being purely transactional tools with clunky UX & intimidating steps is now solved with Leap super wallet for Cosmos that has IBC transfers, governance, staking, and many more! https://twitter.com/leap_cosmos 
+
+### Evmos&Cosmos news till Aug 4
+
+Evmos and Cosmos News till April 4th
+
+- On July 30th, the dYdX Chain reached 44% of its developing process, which means that launch is on its way!
+
+- Cosmos ecosystem continues to grow with native $USDC coming to Osmosis!
+
+- [The support for Cosmos SDK](https://github.com/ignite/cli/issues/2673) v0.46.0 and Ignite CLI is bringing IBC v5 with chain scaffolding features!
+
+- RND Engineering update has been released for Cosmos with new module, msg-based governance proposals, Baseapp PostHandlers, and transaction tips
+
+
+- TrustWallet has integrated the Evmos blockchain and integrated Evmos staking directly into the app!
+
