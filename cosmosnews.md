@@ -43,12 +43,15 @@ Evmos and Cosmos News till April 4th
 
 - On July 30th, the dYdX Chain reached 44% of its developing process, which means that launch is on its way!
 
+- Nomad ERC20 bridge assets were hacked and drained. Evmos funds are safe and issue is currently being resolved by the Nomad team
+
 - Cosmos ecosystem continues to grow with native $USDC coming to Osmosis!
 
 - [The support for Cosmos SDK](https://github.com/ignite/cli/issues/2673) v0.46.0 and Ignite CLI is bringing IBC v5 with chain scaffolding features!
 
 - RND Engineering update has been released for Cosmos with new module, msg-based governance proposals, Baseapp PostHandlers, and transaction tips
 
+- Evmos Momentum Hackathon is on and there are still 27 more days to deadline! There are 290 participants right now taking part in the challanges. To learn more about the event, check out our [article](https://github.com/citizen-cosmos/blog/blob/gh-pages/momentum.md)!
 
 - TrustWallet has integrated the Evmos blockchain and integrated Evmos staking directly into the app!
 
