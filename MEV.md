@@ -18,8 +18,7 @@ If the miner did not take advantage of this opportunity, trading bots would come
 
 **What are the risks of MEV?**
 
-For users, the risk is a possible exchange at a deliberately unfavorable rate and an unreasonable increase in gas fees.
-Plus, many arbitrage MEV operations load the blockchain, threatening its stable operation.
+For users, the risk is a possible exchange at a deliberately unfavorable rate and an unreasonable increase in gas fees. MEV is also one of Ethereum's biggest issues, with more than $689 million extracted from users of the network year-to-date. By leveraging their discretionary power to sequence transactions within blocks, miners can extract value from decentralized application users on Ethereum, greatly diminishing the user experience and threatening the stability of the network. Moreover, MEV can have deleterious effects between blocks. If the MEV available in a block significantly exceeds the standard block reward, miners may be incentivized to remine blocks and capture the MEV for themselves, causing blockchain re-organization and consensus instability.
 
 **How to fight MEV**
 
