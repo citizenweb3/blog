@@ -1,11 +1,11 @@
 # Manuscripts of [Citizen Cosmos](https://www.citizencosmos.space/)
 
 - [Tune your anthenas here humanoids!](https://www.citizencosmos.space/episodes)
-- Episodes (Transcript\Articles\Listen): [Ep.63 Microtick](/blog/63microtick.html)   
+- Episodes (Transcript\Articles\Listen): [Ep.63 Microtick](/blog/63microtick.html) | [Ep.65 Kadena](/blog/65kadena.html)    
 
 ## Validating networks Updates: [Cosmos/Evmos/Cyber](/blog/cosmosnews.html)
 
-## Articles : [Validators](/blog/validators.html) | [Hackatom2022](/blog/hackatom2022.html)
+## Articles : [Validators](/blog/validators.html) | [Hackatom2022](/blog/hackatom2022.html)  | [Evmos Momentum Hackathon](/blog/momentum.html)
 
 ## Guides : [Microtick guide](/blog/guides.html)
 
