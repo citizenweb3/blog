@@ -21,6 +21,10 @@ If a validator does a poor job of creating blocks on any chain, he risks destroy
 
 Interchain Security technology allows large ecosystem projects like Cosmos to share their security with start-up projects, making the creation of new decentralized projects and services more accessible to creators and developers, lowering the entry threshold, and making them safe for the end user.
 
+**The Importance of ICS**
+
+Although the Cosmos ecosystem has been around for quite some time,the launch of Interchain Security may become its most significant update. Interchain Security's value to Cosmos is much broader than just improving network security. For example, it unites various user groups and reduces their conflict of interest. Interchain Security will make possible the practical minimalism and the strategic philosophy leading to the Cosmos Hub without compromising the platform's effectiveness. It will eliminate security vulnerabilities and reduce the likelihood of a conflict of interest between user groups, which can lead to a hard fork. Since Cosmos Hub constantly adds new features, many users are concerned that the network's security will be compromised. Interchain Security will be able to satisfy these "hub minimalists" by allowing each of these functions to become a separate chain. These individual chains could then be programmed to have their management tokens and fees, which would encourage the participation of validators. The more networks join the Cosmos ecosystem, the more expensive it becomes for hackers to manipulate the web. Since the cost of its attack often measures the security of a network, the more value is invested in Cosmos, the more secure it becomes.
+
 **When will ICS be available?**
 
 In the Cosmos roadmap, the official launch of ICS is scheduled for January 2023. This means that many new projects will be added to the Cosmos ecosystem shortly, which will positively affect the cost of ATOM. So don't miss the opportunity to buy ATOM now and stake it with us.
