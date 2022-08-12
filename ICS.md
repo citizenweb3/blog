@@ -21,6 +21,13 @@ If a validator does a poor job of creating blocks on any chain, he risks destroy
 
 Interchain Security technology allows large ecosystem projects like Cosmos to share their security with start-up projects, making the creation of new decentralized projects and services more accessible to creators and developers, lowering the entry threshold, and making them safe for the end user.
 
+**When will ICS be available?**
+
+In the Cosmos roadmap, the official launch of ICS is scheduled for January 2023. This means that many new projects will be added to the Cosmos ecosystem shortly, which will positively affect the cost of ATOM. So don't miss the opportunity to buy ATOM now and stake it with us.
+We are looking forward to taking off!
+
+[![FZ5re-Iw-WAAAl0-ZX.jpg](https://i.postimg.cc/XJ2sHc0P/FZ5re-Iw-WAAAl0-ZX.jpg)](https://postimg.cc/dkyRDC3R)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 If you want to support us in our mission of creating and spreading educational content and aligning the goal of different communities, please stake with us (guide you can find [here](https://www.citizencosmos.space/staking)) 
 - [EVMOS](https://www.mintscan.io/evmos/validators/evmosvaloper1mtwvpdd57gpkyejd566s24afr9zm5ryq8gwpvj) 
