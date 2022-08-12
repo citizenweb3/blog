@@ -39,7 +39,7 @@
 
 ### Evmos&Cosmos news till Aug 4
 
-Evmos and Cosmos News till April 4th
+Evmos and Cosmos News till August 4th
 
 - On July 30th, the dYdX Chain reached 44% of its developing process, which means that launch is on its way!
 
