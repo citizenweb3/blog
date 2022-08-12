@@ -6,6 +6,7 @@
 - [4-11 of July 2022](#4-11-of-July-2022)
 - [11-24 July](#evmos&cosmos-news-till-july-24)
 - [24-4 Jul/Aug](#evmos&cosmos-news-till-aug-4)
+- [4-11 Aug](#evmos&cosmos-news-till-aug-11) 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -64,3 +65,23 @@ If you want to support us in our mission of creating and spreading educational c
 and join our [Discord server](https://discord.gg/kJaG3EucCX) and help us grow the interest for web3 to the masses.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcitizen-cosmos.github.io%2Fblog%2F65kadena.html&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+
+### Evmos&Cosmos News till Aug 11
+
+- KUJIRA $USK Stablecoin Launch — kickstarting grown-up DeFI. Learn more here: https://medium.com/team-kujira/kujira-usk-stablecoin-launch-kickstarting-grown-up-defi-26b4372d7aef
+- The First Evmos Hackathon has finally started on Aug 11th! Join the official Q&A Group Chat to have your questions answered http://t.me/Evmoshackathon
+- @StaFi_Protocol initially released #rATOM solution V1 on #StaFi chain. Now they are introducing #rATOM solution V2 on #StaFiHub due to the cross-chain issues between the #StaFi chain and @cosmoshub
+- Biggest Movers: ATOM Climbs to Highest Point Since May, While SOL Rises by Over 10% $EVMOS, $PSTAKE , $KUJI is trending on CoinGecko
+-  New stable coins coming to Cosmos! The Inter Protocol is a community organized, decentralized application launching on the @agoric chain that implements the Inter Stable Token.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+If you want to support us in our mission of creating and spreading educational content and aligning the goal of different communities, please stake with us (guide you can find [here](https://www.citizencosmos.space/staking)) 
+- [EVMOS](https://www.mintscan.io/evmos/validators/evmosvaloper1mtwvpdd57gpkyejd566s24afr9zm5ryq8gwpvj) 
+- [ATOM](https://www.mintscan.io/cosmos/validators/cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u) 
+- [BOOT](https://cyb.ai/network/bostrom/hero/bostromvaloper1f7nx65pmayfenpfwzwaamwas4ygmvalqj6dz5r)
+
+and join our [Discord server](https://discord.gg/kJaG3EucCX) and help us grow the interest for web3 to the masses.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcitizen-cosmos.github.io%2Fblog%2F65kadena.html&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+
