@@ -68,6 +68,8 @@ and join our [Discord server](https://discord.gg/kJaG3EucCX) and help us grow th
 
 ### Evmos&Cosmos News till Aug 11
 
+Good space time everyone! Here are the lastest ecosystem news and statistics we've prepared for you! Stay tuned for more updates next week!
+
 - KUJIRA $USK Stablecoin Launch — kickstarting grown-up DeFI. Learn more here: https://medium.com/team-kujira/kujira-usk-stablecoin-launch-kickstarting-grown-up-defi-26b4372d7aef
 - The First Evmos Hackathon has finally started on Aug 11th! Join the official Q&A Group Chat to have your questions answered http://t.me/Evmoshackathon
 - @StaFi_Protocol initially released #rATOM solution V1 on #StaFi chain. Now they are introducing #rATOM solution V2 on #StaFiHub due to the cross-chain issues between the #StaFi chain and @cosmoshub
