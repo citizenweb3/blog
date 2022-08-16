@@ -1,6 +1,6 @@
 # Interchain Security #
 
-[![Discord-Post-61-1.jpg](https://i.postimg.cc/qR9SjMK8/Discord-Post-61-1.jpg)](https://postimg.cc/ZBxwqmVR)
+[![Discord-Post-61-1.png](https://i.postimg.cc/BvdWDxPF/Discord-Post-61-1.png)](https://postimg.cc/jWQkYnXq)
 
 **Blockchain protection**
 
