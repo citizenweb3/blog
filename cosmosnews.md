@@ -3,16 +3,15 @@
 ## Articles : [Validators](/blog/validators.html) | [Hackatom2022](/blog/hackatom2022.html)
 
 ## Weekly digest 
-- [4-11 of July 2022](#4-11-of-July-2022)
+- [4-11 of July 2022](#evmos&cosmos-news-till-july-11)
 - [11-24 July](#evmos&cosmos-news-till-july-24)
 - [24-4 Jul/Aug](#evmos&cosmos-news-till-aug-4)
-- [4-11 Aug](#evmos&cosmos-news-till-aug-11) 
+- [4-11 Aug](#evmos&cosmos-news-till-aug-11)
+- [11-18 Aug](#evmos&cosmos-news-till-aug-18)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 4-11 of July 2022 
-
-###Cosmos
+### Evmos&Cosmos news till July 11
 
 - Peng Zhong stepped down as CEO a month after former company head Jae Kwon said he would lead NewTendermint, part of Ignite's split into two firms in May. During his time at the firm, many knew him for developing the first Cosmos crypto wallet, Voyager, later renamed Lunie, and helping to introduce liquid staking. The reason for the decision is yet unclear. 
 
@@ -36,11 +35,11 @@
 
 - New COSMOS app v.2.34.6 is available to download in LedgerLive This version restores IBC transactions 
 
-- The problem of crypto wallets typically being purely transactional tools with clunky UX & intimidating steps is now solved with Leap super wallet for Cosmos that has IBC transfers, governance, staking, and many more! https://twitter.com/leap_cosmos 
+- The problem of crypto wallets typically being purely transactional tools with clunky UX & intimidating steps is now solved with Leap super wallet for Cosmos that has IBC transfers, governance, staking, and many more! https://twitter.com/leap_cosmos  
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Evmos&Cosmos news till Aug 4
-
-Evmos and Cosmos News till April 4th
 
 - On July 30th, the dYdX Chain reached 44% of its developing process, which means that launch is on its way!
 
@@ -57,14 +56,6 @@ Evmos and Cosmos News till April 4th
 - TrustWallet has integrated the Evmos blockchain and integrated Evmos staking directly into the app!
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-If you want to support us in our mission of creating and spreading educational content and aligning the goal of different communities, please stake with us (guide you can find [here](https://www.citizencosmos.space/staking)) 
-- [EVMOS](https://www.mintscan.io/evmos/validators/evmosvaloper1mtwvpdd57gpkyejd566s24afr9zm5ryq8gwpvj) 
-- [ATOM](https://www.mintscan.io/cosmos/validators/cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u) 
-- [BOOT](https://cyb.ai/network/bostrom/hero/bostromvaloper1f7nx65pmayfenpfwzwaamwas4ygmvalqj6dz5r)
-
-and join our [Discord server](https://discord.gg/kJaG3EucCX) and help us grow the interest for web3 to the masses.
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcitizen-cosmos.github.io%2Fblog%2F65kadena.html&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
 ### Evmos&Cosmos News till Aug 11
 
@@ -76,6 +67,17 @@ and join our [Discord server](https://discord.gg/kJaG3EucCX) and help us grow th
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+### Evmos&Cosmos News till Aug 18
+
+- Evmos is now hiring software engineers in Berlin, Miami, SF, remote! Check out for more [here](https://cryptocurrencyjobs.co/engineering/evmos-software-engineer-core-protocol/) 
+- Evmos is now RedStone Powered! Leveraging the Cosmos SDK, Evmos is bringing composability, interoperability, and fast finality to Ethereum. Redstone provides price feeds for a wide variety of assets including the Evmos token as well as a randomness oracleRead [more](https://medium.com/@RedStone_Finance/redstonepowered-ep-2-evmos-1c031b8e1e32)! 
+- Evmos Momentum Hackathon is still on and we're all excited to see the winning projects! Learn about the hackathon from their organizers in our [latest Citizen Oddysey podcast](https://www.youtube.com/watch?v=dGmWe2ONpo4&t=2074s)!
+- The trustless IBC bridge between Cosmos and Harmony Protocol is [now live](https://twitter.com/cosmos/status/1559600027542048769) on testnet: the Interchain is becoming unstoppable!
+- Cosmos SDK v0.46.0 Release. Regen dev team is thrilled to share new features in the latest #sdk release from Comos: New Module: x/group; Msg-based Gov Proposals; Baseapp PostHandlers; Transaction Tips and SIGN_MODE_DIRECT_AUX
+- Cosmos (ATOM) is now raking in the top 30 cryptos by market capitalization. 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 If you want to support us in our mission of creating and spreading educational content and aligning the goal of different communities, please stake with us (guide you can find [here](https://www.citizencosmos.space/staking)) 
 - [EVMOS](https://www.mintscan.io/evmos/validators/evmosvaloper1mtwvpdd57gpkyejd566s24afr9zm5ryq8gwpvj) 
 - [ATOM](https://www.mintscan.io/cosmos/validators/cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u) 
@@ -83,5 +85,4 @@ If you want to support us in our mission of creating and spreading educational c
 
 and join our [Discord server](https://discord.gg/kJaG3EucCX) and help us grow the interest for web3 to the masses.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcitizen-cosmos.github.io%2Fblog%2F65kadena.html&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcitizen-cosmos.github.io%2Fblog%2Fcosmosnews.html&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
