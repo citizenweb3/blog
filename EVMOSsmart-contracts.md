@@ -1,6 +1,6 @@
 # EVMOS smart-contracts #
 
-[![Discord-Post-59.jpg](https://i.postimg.cc/MpwKP9Dc/Discord-Post-59.jpg)](https://postimg.cc/rKhkzC7c)
+[![520f2db6-085c-4613-bdb5-9440bde7f421.png](https://i.postimg.cc/qvxB53tt/520f2db6-085c-4613-bdb5-9440bde7f421.png)](https://postimg.cc/nXMtsMGZ)
 
 **What is EVMOS?**
 
