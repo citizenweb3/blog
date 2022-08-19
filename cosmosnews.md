@@ -3,7 +3,7 @@
 ## Articles : [Validators](/blog/validators.html) | [Hackatom2022](/blog/hackatom2022.html)
 
 ## Weekly digest 
-- [4-11 of July 2022](#4-11-of-July-2022)
+- [4-11 of July 2022](#evmos&cosmos-news-till-july-11)
 - [11-24 July](#evmos&cosmos-news-till-july-24)
 - [24-4 Jul/Aug](#evmos&cosmos-news-till-aug-4)
 - [4-11 Aug](#evmos&cosmos-news-till-aug-11)
@@ -11,9 +11,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 4-11 of July 2022 
-
-###Cosmos
+### Evmos&Cosmos news till July 11
 
 - Peng Zhong stepped down as CEO a month after former company head Jae Kwon said he would lead NewTendermint, part of Ignite's split into two firms in May. During his time at the firm, many knew him for developing the first Cosmos crypto wallet, Voyager, later renamed Lunie, and helping to introduce liquid staking. The reason for the decision is yet unclear. 
 
@@ -37,11 +35,11 @@
 
 - New COSMOS app v.2.34.6 is available to download in LedgerLive This version restores IBC transactions 
 
-- The problem of crypto wallets typically being purely transactional tools with clunky UX & intimidating steps is now solved with Leap super wallet for Cosmos that has IBC transfers, governance, staking, and many more! https://twitter.com/leap_cosmos 
+- The problem of crypto wallets typically being purely transactional tools with clunky UX & intimidating steps is now solved with Leap super wallet for Cosmos that has IBC transfers, governance, staking, and many more! https://twitter.com/leap_cosmos  
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Evmos&Cosmos news till Aug 4
-
-Evmos and Cosmos News till April 4th
 
 - On July 30th, the dYdX Chain reached 44% of its developing process, which means that launch is on its way!
 
@@ -58,14 +56,6 @@ Evmos and Cosmos News till April 4th
 - TrustWallet has integrated the Evmos blockchain and integrated Evmos staking directly into the app!
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-If you want to support us in our mission of creating and spreading educational content and aligning the goal of different communities, please stake with us (guide you can find [here](https://www.citizencosmos.space/staking)) 
-- [EVMOS](https://www.mintscan.io/evmos/validators/evmosvaloper1mtwvpdd57gpkyejd566s24afr9zm5ryq8gwpvj) 
-- [ATOM](https://www.mintscan.io/cosmos/validators/cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u) 
-- [BOOT](https://cyb.ai/network/bostrom/hero/bostromvaloper1f7nx65pmayfenpfwzwaamwas4ygmvalqj6dz5r)
-
-and join our [Discord server](https://discord.gg/kJaG3EucCX) and help us grow the interest for web3 to the masses.
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcitizen-cosmos.github.io%2Fblog%2F65kadena.html&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
 ### Evmos&Cosmos News till Aug 11
 
@@ -76,16 +66,6 @@ and join our [Discord server](https://discord.gg/kJaG3EucCX) and help us grow th
 -  New stable coins coming to Cosmos! The Inter Protocol is a community organized, decentralized application launching on the @agoric chain that implements the Inter Stable Token.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-If you want to support us in our mission of creating and spreading educational content and aligning the goal of different communities, please stake with us (guide you can find [here](https://www.citizencosmos.space/staking)) 
-- [EVMOS](https://www.mintscan.io/evmos/validators/evmosvaloper1mtwvpdd57gpkyejd566s24afr9zm5ryq8gwpvj) 
-- [ATOM](https://www.mintscan.io/cosmos/validators/cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u) 
-- [BOOT](https://cyb.ai/network/bostrom/hero/bostromvaloper1f7nx65pmayfenpfwzwaamwas4ygmvalqj6dz5r)
-
-and join our [Discord server](https://discord.gg/kJaG3EucCX) and help us grow the interest for web3 to the masses.
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcitizen-cosmos.github.io%2Fblog%2F65kadena.html&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
-
 
 ### Evmos&Cosmos News till Aug 18
 
