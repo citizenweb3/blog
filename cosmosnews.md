@@ -3,39 +3,45 @@
 ## Articles : [Validators](/blog/validators.html) | [Hackatom2022](/blog/hackatom2022.html)
 
 ## Weekly digest 
-- [4-11 of July 2022](#evmos&cosmos-news-till-july-11)
-- [11-24 July](#evmos&cosmos-news-till-july-24)
-- [24-4 Jul/Aug](#evmos&cosmos-news-till-aug-4)
-- [4-11 Aug](#evmos&cosmos-news-till-aug-11)
+- [18-25 Aug](#evmos&cosmos-news-till-aug-25)
 - [11-18 Aug](#evmos&cosmos-news-till-aug-18)
+- [4-11 Aug](#evmos&cosmos-news-till-aug-11)
+- [24-4 Jul/Aug](#evmos&cosmos-news-till-aug-4)
+- [11-24 July](#evmos&cosmos-news-till-july-24)
+- [4-11 of July 2022](#evmos&cosmos-news-till-july-11)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Evmos&Cosmos news till July 11
+### Evmos&Cosmos News till Aug 25
 
-- Peng Zhong stepped down as CEO a month after former company head Jae Kwon said he would lead NewTendermint, part of Ignite's split into two firms in May. During his time at the firm, many knew him for developing the first Cosmos crypto wallet, Voyager, later renamed Lunie, and helping to introduce liquid staking. The reason for the decision is yet unclear. 
+- Institutions and enterprises looking to participate in Evmos and Avalanche can now stake with Coinbase Cloud, and store their tokens with Aegis. Learn more on [Coinbase](https://www.coinbase.com/cloud/discover/solutions/aegis-trust-company)!
+- The Laurel Project has anounced a novel approach: an interlinked and interdependent blockchain constitution proposed for first time to Evmos governance. Watch this [video](https://www.youtube.com/watch?v=7gsuWWvCse4) for more details!
+- Swiss Staking AG announced Dapp Store coming to Evmos! The network will upgrade to v8.0.0 in 6 days and implement the feesplit module. For more infp check out the [Twitter thread](https://twitter.com/swiss_staking/status/1562141982104985601)!
+- COSMOS has become the latest cryptocurrency to join the 1xBit family, bringing convenience in crypto betting one step further. With speedy transactions, easy-to-use software, and inter-blockchain communication, COSMOS is about to revolutionize the already groundbreaking betting on 1xBit, and lead crypto gambling into the future. 
+- Natively integrated Cosmos and Ethereum DEXs are coming to IBC wallet [soon](https://twitter.com/CosmostationVD/status/1562284568857964544)!
 
-- The @CosmosHub which is the home of $ATOM is evolving into the interchain provider to Cosmos, a service that no other Cosmos chain offers. 
-
-- Injective - the blockchain built for finance on Cosmos IBC had a [mainnet chain upgrade](https://coinmarketcap.com/community/articles/30966) last week. Smart contracts are now live! One of the first smart contracts is the CosmWasm smart contract layer which brings self-executing smart contracts, binary options, interchain accounts, and more. 
-
-- This week has been great for $ATOM so far! With the price of $7.71 at the beginning of the week, it made a steep way up and reached $9.34 on July 8th! The inflation is slightly above 12%, and the approximate staking APR is just a bit below 19%. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Evmos&Cosmos news till July 24
+### Evmos&Cosmos News till Aug 18
 
-- Evmos will form an interchain cluster next to Juno Network and Cosmos Hub!
+- Evmos is now hiring software engineers in Berlin, Miami, SF, remote! Check out for more [here](https://cryptocurrencyjobs.co/engineering/evmos-software-engineer-core-protocol/) 
+- Evmos is now RedStone Powered! Leveraging the Cosmos SDK, Evmos is bringing composability, interoperability, and fast finality to Ethereum. Redstone provides price feeds for a wide variety of assets including the Evmos token as well as a randomness oracleRead [more](https://medium.com/@RedStone_Finance/redstonepowered-ep-2-evmos-1c031b8e1e32)! 
+- Evmos Momentum Hackathon is still on and we're all excited to see the winning projects! Learn about the hackathon from their organizers in our [latest Citizen Oddysey podcast](https://www.youtube.com/watch?v=dGmWe2ONpo4&t=2074s)!
+- The trustless IBC bridge between Cosmos and Harmony Protocol is [now live](https://twitter.com/cosmos/status/1559600027542048769) on testnet: the Interchain is becoming unstoppable!
+- Cosmos SDK v0.46.0 Release. Regen dev team is thrilled to share new features in the latest #sdk release from Comos: New Module: x/group; Msg-based Gov Proposals; Baseapp PostHandlers; Transaction Tips and SIGN_MODE_DIRECT_AUX
+- Cosmos (ATOM) is now raking in the top 30 cryptos by market capitalization. 
 
-- Time to check your $GNOT airdrop! Check your Atom address here: app.gno.tools/verify-balance 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- Registration for the #EvmosMomentum Hackathon that we previously mentioned is now open! Join the event and try your luck with the prizes! https://t.co/2CKuRwNlXo 
+### Evmos&Cosmos News till Aug 11
 
-- On July 22, #WenChangChain's Single-day transaction volume surpassed #Ethereum by 40%! 
+- KUJIRA $USK Stablecoin Launch — kickstarting grown-up DeFI. Learn more here: https://medium.com/team-kujira/kujira-usk-stablecoin-launch-kickstarting-grown-up-defi-26b4372d7aef
+- The First Evmos Hackathon has finally started on Aug 11th! Join the official Q&A Group Chat to have your questions answered http://t.me/Evmoshackathon
+- @StaFi_Protocol initially released #rATOM solution V1 on #StaFi chain. Now they are introducing #rATOM solution V2 on #StaFiHub due to the cross-chain issues between the #StaFi chain and @cosmoshub
+- Biggest Movers: ATOM Climbs to Highest Point Since May, While SOL Rises by Over 10% $EVMOS, $PSTAKE , $KUJI is trending on CoinGecko
+-  New stable coins coming to Cosmos! The Inter Protocol is a community organized, decentralized application launching on the @agoric chain that implements the Inter Stable Token.
 
-- New COSMOS app v.2.34.6 is available to download in LedgerLive This version restores IBC transactions 
-
-- The problem of crypto wallets typically being purely transactional tools with clunky UX & intimidating steps is now solved with Leap super wallet for Cosmos that has IBC transfers, governance, staking, and many more! https://twitter.com/leap_cosmos  
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -57,24 +63,30 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Evmos&Cosmos News till Aug 11
+### Evmos&Cosmos news till July 24
 
-- KUJIRA $USK Stablecoin Launch — kickstarting grown-up DeFI. Learn more here: https://medium.com/team-kujira/kujira-usk-stablecoin-launch-kickstarting-grown-up-defi-26b4372d7aef
-- The First Evmos Hackathon has finally started on Aug 11th! Join the official Q&A Group Chat to have your questions answered http://t.me/Evmoshackathon
-- @StaFi_Protocol initially released #rATOM solution V1 on #StaFi chain. Now they are introducing #rATOM solution V2 on #StaFiHub due to the cross-chain issues between the #StaFi chain and @cosmoshub
-- Biggest Movers: ATOM Climbs to Highest Point Since May, While SOL Rises by Over 10% $EVMOS, $PSTAKE , $KUJI is trending on CoinGecko
--  New stable coins coming to Cosmos! The Inter Protocol is a community organized, decentralized application launching on the @agoric chain that implements the Inter Stable Token.
+- Evmos will form an interchain cluster next to Juno Network and Cosmos Hub!
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Time to check your $GNOT airdrop! Check your Atom address here: app.gno.tools/verify-balance 
 
-### Evmos&Cosmos News till Aug 18
+- Registration for the #EvmosMomentum Hackathon that we previously mentioned is now open! Join the event and try your luck with the prizes! https://t.co/2CKuRwNlXo 
 
-- Evmos is now hiring software engineers in Berlin, Miami, SF, remote! Check out for more [here](https://cryptocurrencyjobs.co/engineering/evmos-software-engineer-core-protocol/) 
-- Evmos is now RedStone Powered! Leveraging the Cosmos SDK, Evmos is bringing composability, interoperability, and fast finality to Ethereum. Redstone provides price feeds for a wide variety of assets including the Evmos token as well as a randomness oracleRead [more](https://medium.com/@RedStone_Finance/redstonepowered-ep-2-evmos-1c031b8e1e32)! 
-- Evmos Momentum Hackathon is still on and we're all excited to see the winning projects! Learn about the hackathon from their organizers in our [latest Citizen Oddysey podcast](https://www.youtube.com/watch?v=dGmWe2ONpo4&t=2074s)!
-- The trustless IBC bridge between Cosmos and Harmony Protocol is [now live](https://twitter.com/cosmos/status/1559600027542048769) on testnet: the Interchain is becoming unstoppable!
-- Cosmos SDK v0.46.0 Release. Regen dev team is thrilled to share new features in the latest #sdk release from Comos: New Module: x/group; Msg-based Gov Proposals; Baseapp PostHandlers; Transaction Tips and SIGN_MODE_DIRECT_AUX
-- Cosmos (ATOM) is now raking in the top 30 cryptos by market capitalization. 
+- On July 22, #WenChangChain's Single-day transaction volume surpassed #Ethereum by 40%! 
+
+- New COSMOS app v.2.34.6 is available to download in LedgerLive This version restores IBC transactions 
+
+- The problem of crypto wallets typically being purely transactional tools with clunky UX & intimidating steps is now solved with Leap super wallet for Cosmos that has IBC transfers, governance, staking, and many more! https://twitter.com/leap_cosmos  
+
+
+### Evmos&Cosmos news till July 11
+
+- Peng Zhong stepped down as CEO a month after former company head Jae Kwon said he would lead NewTendermint, part of Ignite's split into two firms in May. During his time at the firm, many knew him for developing the first Cosmos crypto wallet, Voyager, later renamed Lunie, and helping to introduce liquid staking. The reason for the decision is yet unclear. 
+
+- The @CosmosHub which is the home of $ATOM is evolving into the interchain provider to Cosmos, a service that no other Cosmos chain offers. 
+
+- Injective - the blockchain built for finance on Cosmos IBC had a [mainnet chain upgrade](https://coinmarketcap.com/community/articles/30966) last week. Smart contracts are now live! One of the first smart contracts is the CosmWasm smart contract layer which brings self-executing smart contracts, binary options, interchain accounts, and more. 
+
+- This week has been great for $ATOM so far! With the price of $7.71 at the beginning of the week, it made a steep way up and reached $9.34 on July 8th! The inflation is slightly above 12%, and the approximate staking APR is just a bit below 19%. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
