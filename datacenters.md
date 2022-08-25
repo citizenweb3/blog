@@ -1,6 +1,6 @@
 # Data Centers & Ecology #
 
-![Discord-Post-73.png](https://postimg.cc/ft5SyXMK)
+[![Discord-Post-73.png](https://i.postimg.cc/J0CNTcg9/Discord-Post-73.png)](https://postimg.cc/ft5SyXMK)
 
 [The 66th episode](https://www.citizencosmos.space/cudos) of Citizen Cosmos was dedicated to the [CUDOS project](https://www.cudos.org/) - the decentralized cloud computing network. Among the topics discussed with [Matt Hawkins](https://twitter.com/hawkinstech?lang=en), the CEO of CUDOS, were crypto, mining, diversity of cloud computing projects, gaming, education, and many more. However, above all these topics stands the primary goal of CUDOS is sustainability and eco-friendliness. Therefore, we will discuss the data centers, their harmful impact on the ecology, and the ways of dealing with them. 
 
