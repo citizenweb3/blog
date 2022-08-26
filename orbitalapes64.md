@@ -1,5 +1,6 @@
-[Orbital Apes](https://www.youtube.com/watch?v=NxqZ6T6WB3Q&t=1780s)
+<iframe src="https://player.fireside.fm/v2/7d8ZfYhp+BJvSxbv2?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 
+- Transcript of the Episode: 
 
 [00:00:00] Citizen Cosmos: Hi everyone! Welcome to our new episode of the Citizen Cosmos podcast! Today we have with us CO, the Community Overlord from Orbital Apes. Hey! Welcome to the show!
 
@@ -124,3 +125,13 @@ perfectly on time, we didn't miss a single block in there so it's perfect. It ma
 [00:34:06] CO Orbital Apes: I would say running an NFT collection is pretty tough. At some point  you have to be constantly engaged with community, constantly developing new things, you’re pretty much in the hands of how the market is behaving, how market psychology works so it's tough but once you have success in a collection that's more than enough to keep you going because if you know you were successful in this than you know what else to do in the future. And it's also pretty fun. I run the community so getting to interact with a lot of people in Discord is super fun. I know a lot of the people that are in the day score and there's some that are pretty much there 24/7 so talking to them, getting their feedback about the project, listening to suggestions is also super helpful because even though we are a big team it's super useful to hear the the ideas of the people that are actually using our product and are invested on it because first of all, they give us a lot of different ideas of what to do in the future. We've taken a lot of their suggestions and we actually implemented them for the whole ecosystem and you also see when when people react positively towards a new update that you did to the market place or towards a new Ape design that you're released in the OAV store. All of this is super rewarding and fun, it's super fun to see the reactions of people when you  release a new snique peek or something like that. Working in crypto you have all the freedom and flexibility you want. 
 
 [00:40:37] Citizen Cosmos: To be honest with you I don't get many guests who are so business driven and I love that because it's a motivation in itself to succeed. I think success is a very good motivation. Thanks for the conversation, it’s been a huge pleasure! 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+If you want to support us in our mission of creating and spreading educational content and aligning the goal of different communities, please stake with us (guide you can find [here](https://www.citizencosmos.space/staking)) 
+- [EVMOS](https://www.mintscan.io/evmos/validators/evmosvaloper1mtwvpdd57gpkyejd566s24afr9zm5ryq8gwpvj) 
+- [ATOM](https://www.mintscan.io/cosmos/validators/cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u) 
+- [BOOT](https://cyb.ai/network/bostrom/hero/bostromvaloper1f7nx65pmayfenpfwzwaamwas4ygmvalqj6dz5r)
+
+and join our [Discord server](https://discord.gg/kJaG3EucCX) and help us grow the interest for web3 to the masses.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcitizen-cosmos.github.io%2Fblog%2Forbitalapes64.html&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
