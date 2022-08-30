@@ -1,3 +1,5 @@
+ <iframe src="https://player.fireside.fm/v2/7d8ZfYhp+MphLyM1y?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+
 ### Idena Transcript
 [Episode #67](https://www.citizencosmos.space/idena)
 
@@ -83,3 +85,13 @@ in order to display these adds to people around the world. So i think that conce
 [00:45:11] TravCrypto: For me it’s very similar to LTraveler. In the time that I've been in web3 professionally over the past three years and as a community member over the past six years I've seen a lot of different blockchains, a lot of different projects all promising different things. The thing that makes me most passionate about Idena is this concept of a truly decentralized democracy and what I mean by that is a global democracy where every humans can participate in this system and their vote can be heard which is really spectacular to me. I think it's a novel concept that hasn't been done at scale and I think Idena is the technology that can allow truly decentralized democracy to happen at scale.
 
 [00:46:12] Citizen Cosmos: Guys, this has been a huge pleasure! Thank you very much for your time! 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+If you want to support us in our mission of creating and spreading educational content and aligning the goal of different communities, please stake with us (guide you can find [here](https://www.citizencosmos.space/staking)) 
+- [EVMOS](https://www.mintscan.io/evmos/validators/evmosvaloper1mtwvpdd57gpkyejd566s24afr9zm5ryq8gwpvj) 
+- [ATOM](https://www.mintscan.io/cosmos/validators/cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u) 
+- [BOOT](https://cyb.ai/network/bostrom/hero/bostromvaloper1f7nx65pmayfenpfwzwaamwas4ygmvalqj6dz5r)
+
+and join our [Discord server](https://discord.gg/kJaG3EucCX) and help us grow the interest for web3 to the masses.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcitizen-cosmos.github.io%2Fblog%2Fidena67.html&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
