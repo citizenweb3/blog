@@ -1,7 +1,7 @@
 # Manuscripts of [Citizen Cosmos](https://www.citizencosmos.space/)
 
 - [Tune your anthenas here humanoids!](https://www.citizencosmos.space/episodes)
-- Episodes (Transcript\Articles\Listen): | [Ep.61 EpicenterTv](/blog/61epicentertv.html) | [Ep.63 Microtick](/blog/63microtick.html) | [Ep.65 Kadena](/blog/65kadena.html) | [Ep.64 Orbital Apes](/blog/orbitalapes64.md.html)
+- Episodes (Transcript\Articles\Listen): | [Ep.61 EpicenterTv](/blog/61epicentertv.html) | [Ep.63 Microtick](/blog/63microtick.html) | [Ep.65 Kadena](/blog/65kadena.html) | [Ep.64 Orbital Apes](/blog/orbitalapes64.html) | [Ep.67 Idena](/blog/idena67.html)
 - 
 ## Validating networks Updates: [Cosmos/Evmos/Cyber](/blog/cosmosnews.html)
 
