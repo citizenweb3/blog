@@ -1,3 +1,7 @@
+<iframe src="https://player.fireside.fm/v2/7d8ZfYhp+1s9qY1u1?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+
+- Transcript of the Episode: 
+
 [00:00:00] Citizen Cosmos: Good space-time ya’ll! Welcome to the new Citizen Cosmos episode, and today we have Willy Ogorzaly with us, the head of the decentralization at the ShapeShift DAO. Hi!
 
 [00:01:33] Willy: What’s up, everyone? How are you?
@@ -110,4 +114,4 @@ If you want to support us in our mission of creating and spreading educational c
 
 and join our [Discord server](https://discord.gg/kJaG3EucCX) and help us grow the interest for web3 to the masses.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcitizen-cosmos.github.io%2Fblog%2F61epicentertv.html&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcitizen-cosmos.github.io%2Fblog%2Fshapeshift59.html&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
