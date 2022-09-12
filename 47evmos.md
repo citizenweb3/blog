@@ -1,4 +1,6 @@
-Transcript:
+<iframe src="https://player.fireside.fm/v2/7d8ZfYhp+zoDiKGgm?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+
+- Transcript of the Episode: 
 
 [00:00:00] Anna: Hey, it's Citizen Cosmos, we are Serge and Anna, and we discover Cosmos by chatting with awesome people from various teams within the Cosmos ecosystem and the community. Join us if you are curious about how dreams and ambitions become code!
 
@@ -128,4 +130,4 @@ If you want to support us in our mission of creating and spreading educational c
 
 and join our [Discord server](https://discord.gg/kJaG3EucCX) and help us grow the interest for web3 to the masses.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcitizen-cosmos.github.io%2Fblog%2F61epicentertv.html&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcitizen-cosmos.github.io%2Fblog%2F47evmos.html&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
