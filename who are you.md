@@ -1,6 +1,6 @@
 # Who are the validators? 
 
-[![WHO ARE YOU](https://i.postimg.cc/NMMWc30s/Copy-of-sticker-1.png)](https://www.youtube.com/watch?v=2ysZk_KMXUE)
+[![WHO ARE YOU](https://i.postimg.cc/Qx29WsLz/Copy-of-sticker-1.png)](https://www.youtube.com/watch?v=2ysZk_KMXUE)
 
 ----------
 
