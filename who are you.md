@@ -36,7 +36,8 @@ Another great question. We are ecosystem developers. We believe in decentralizat
 
 ----------
 
-If you want to support us in our mission of creating and spreading educational content and aligning the goal of different communities, please stake with us (guide you can find [here](https://www.citizencosmos.space/staking)) 
+If you want to support our mission of creating and spreading educational content and aligning the goal of different communities, please [stake with us](https://www.citizencosmos.space/staking) 
+
 - [EVMOS](https://www.mintscan.io/evmos/validators/evmosvaloper1mtwvpdd57gpkyejd566s24afr9zm5ryq8gwpvj) 
 - [ATOM](https://www.mintscan.io/cosmos/validators/cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u) 
 - [BOOT](https://cyb.ai/network/bostrom/hero/bostromvaloper1f7nx65pmayfenpfwzwaamwas4ygmvalqj6dz5r)
