@@ -1,7 +1,7 @@
 # Manuscripts of [Citizen Cosmos](https://www.citizencosmos.space/)
 
 - [Tune your anthenas here humanoids!](https://www.citizencosmos.space/episodes)
-- Episodes (Transcript\Articles\Listen): | [Ep.47 Federico Kunze, tokenomics & Berkley](/blog/shapeshift59.html) | [Ep.59 Willy Ogorzaly, values, DAO's & the best day ever](/blog/shapeshift59.html) | [Ep.61 EpicenterTv](/blog/61epicentertv.html) | [Ep.63 Microtick](/blog/63microtick.html) | [Ep.65 Kadena](/blog/65kadena.html) | [Ep.66 Matt Hawkins, cloud, sustainability & impact](/blog/cudos66.html)
+- Episodes (Transcript\Articles\Listen): | [Ep.47 Federico Kunze, tokenomics & Berkley](/blog/shapeshift59.html) | [Ep.59 Willy Ogorzaly, values, DAO's & the best day ever](/blog/shapeshift59.html) | [Ep.61 EpicenterTv](/blog/61epicentertv.html) | [Ep.63 Microtick](/blog/63microtick.html) | [Ep.65 Kadena](/blog/65kadena.html) | [Ep.66 Matt Hawkins, cloud, sustainability & impact](/blog/cudos66.html) | [Ep.71 Notional Dao](/blog/notional71.html) 
 
 ## Validating networks Updates: [Cosmos/Evmos/Cyber](/blog/cosmosnews.html)
 
