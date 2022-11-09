@@ -47,6 +47,6 @@ Here’s how Neutron makes Interchain Queries work:
 The relayers go to the queried zones, find a “value” for each “key” and package them with cryptographic proofs.
 
 
-
-
+The link to Citizen Cosmos episode 73 with Spaydh from Neutron: https://citizen-cosmos.github.io/blog/73spaydh.html (both audio and text versions).
+Check it out to expand your understanding of the Neutron project.
 
