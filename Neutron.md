@@ -50,6 +50,6 @@ The relayers go to the queried zones, find a “value” for each “key” and 
 [![1-E9-DD30-F-1443-415-A-A8-F4-29-B356-F9-E929.jpg](https://i.postimg.cc/XvPzK3X6/1-E9-DD30-F-1443-415-A-A8-F4-29-B356-F9-E929.jpg)](https://postimg.cc/Tyr0Gzrt)
 
 
-The link to Citizen Cosmos episode 73 with Spaydh from Neutron: https://citizen-cosmos.github.io/blog/73spaydh.html (both audio and text versions).
-Check it out to expand your understanding of the Neutron project.
-
+If you have an interest in learning more about Neutron’s ideas and hearing their team's plans firsthand, you might want to listen to Citizen Cosmos episode 73 with Spaydh from Neutron:
+https://citizen-cosmos.github.io/blog/73spaydh.html
+Here you will find both an audio and a text version of the interview.
