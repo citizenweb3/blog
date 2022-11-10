@@ -25,9 +25,7 @@ Neutron is a secure platform for Interchain DeFi powered by Tendermint and built
 
 **Interchain Security**
 
-Interchain Security lets validators from a Provider-Chain produce blocks for a Consumer-Chain. Node operators are rewarded with additional native tokens, that will be distributed from consumer chains fees.
-
-In a nutshell, Interchain Security provides Neutron with the same degree of security as the Cosmos Hub.
+Interchain Security provides the level of security for Neutron as the Cosmos Hub by enabling validators to produce blocks from a Provider-Chain to a Consumer Chain. In addition, all node operators are rewarded with native tokens distributed from consumer fees.
 
 
 **Interchain Accounts**
@@ -49,9 +47,12 @@ The relayers go to the queried zones, find a “value” for each “key” and 
 [![1-E9-DD30-F-1443-415-A-A8-F4-29-B356-F9-E929.jpg](https://i.postimg.cc/XvPzK3X6/1-E9-DD30-F-1443-415-A-A8-F4-29-B356-F9-E929.jpg)](https://postimg.cc/Tyr0Gzrt)
 
 
-If you have an interest in learning more about Neutron’s ideas and hearing their team's plans firsthand, you might want to listen to Citizen Cosmos episode 73 with Spaydh from Neutron:
-https://citizen-cosmos.github.io/blog/73spaydh.html
+If you have an interest in learning more about Neutron’s ideas and hearing their team's plans firsthand, you might want to listen to Citizen Cosmos [episode](https://citizen-cosmos.github.io/blog/73spaydh.html) 73 with Spaydh from Neutron:
 Here you will find both an audio and a text version of the interview.
+
+[P2P Validator, founder of Neutron](https://twitter.com/P2Pvalidator)
+[Neutron](https://twitter.com/Neutron_org)
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 If you want to support us in our mission of creating and spreading educational content and aligning the goal of different communities, please stake with us (guide you can find [here](https://www.citizencosmos.space/staking)) 
