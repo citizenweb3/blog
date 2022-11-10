@@ -7,7 +7,6 @@ Interchain Security is probably one of the most interesting narratives in crypto
 - Interchain Queries
 
 
-
 **Quark Testnet**
 
 Neutron will launch Quark testnet to find bugs and fix them. This testnet will not be incentivized and will not use Interchain Security. This testnet is more for advanced users and developers.
@@ -53,3 +52,13 @@ The relayers go to the queried zones, find a “value” for each “key” and 
 If you have an interest in learning more about Neutron’s ideas and hearing their team's plans firsthand, you might want to listen to Citizen Cosmos episode 73 with Spaydh from Neutron:
 https://citizen-cosmos.github.io/blog/73spaydh.html
 Here you will find both an audio and a text version of the interview.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+If you want to support us in our mission of creating and spreading educational content and aligning the goal of different communities, please stake with us (guide you can find [here](https://www.citizencosmos.space/staking)) 
+- [EVMOS](https://wallet.keplr.app/chains/evmos?modal=validator&chain=evmos_9001-2&validator_address=evmosvaloper1mtwvpdd57gpkyejd566s24afr9zm5ryq8gwpvj) 
+- [ATOM](https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u) 
+- [BOOT](https://wallet.keplr.app/chains/bostrom?modal=validator&chain=bostrom&validator_address=bostromvaloper1f7nx65pmayfenpfwzwaamwas4ygmvalqj6dz5r)
+
+and join our [Discord server](https://discord.gg/kJaG3EucCX) and help us grow the interest for web3 to the masses.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcitizen-cosmos.github.io%2Fblog%2Fneutron.html&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
