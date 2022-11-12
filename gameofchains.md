@@ -1,21 +1,21 @@
 [![68747470733a2f2f692e696d6775722e636f6d2f307949637655672e6a7067.jpg](https://i.postimg.cc/PJx4q21C/68747470733a2f2f692e696d6775722e636f6d2f307949637655672e6a7067.jpg)](https://postimg.cc/r0BWnGnT)
 
 
-**So, what is Game of Chains?**
+**What is the Game of Chains?**
 
 [Interchain Security](https://github.com/cosmos/interchain-security) is one of the main features being added to the Cosmos Hub as the platform transitions to the next phase of development. Interchain Security (ICS) is a complex technology that needs to be tested.
 
-[Game of Chains](https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022#phase-1-two-dummy-chains) is the latest public incentivized Interchain Security testnet, which has been launched on November 8.
+[Game of Chains](https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022#phase-1-two-dummy-chains) is a public, incentivized, Interchain Security testnet, which has been launched on November 8.
 
-Interchain Security allows for a provider chain, such as the Cosmos Hub, to share security and have its validators produce blocks for a consumer chain. Interchain Security will allow blockchains to leverage the high security of the Cosmos Hub. Because the market cap of Cosmos Hub is large, small projects will use Cosmos Hub's security to secure its own PoS chain. Consumer chains (chains that will use Hub's security) will be required to go through governance to get their chain admitted by the validator set.
+Interchain Security allows for a provider chain, such as the Cosmos Hub, to share security and have its validators produce blocks for a consumer chain. Interchain Security will allow blockchains to leverage the high security of the Cosmos Hub. 
+
+If the Cosmos Hub has a large market cap, smaller projects may rent its security. Consumer chains (chains that will use Hub's security) will be required to go through governance to get their chain admitted by the validator set.
 
 The benefits of ICS for the Cosmos ecosystem:
-- Chains will be more reliable and secured by trusted [validators](https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u)
-- The validation process is not going to be a distraction for validators to building their products workflow
-- ATOM’s sustainability will rise
-Validators also will benefit as they can attract delegators from new chains and get a part of their tokens. 
+- Chains can spend less time on thinking about where to hire reputable and concetrate more on building
+- [Validators](https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u) will benefit as they can attract delegators from new chains and get a part of their tokens (delegators will also receive the extra rewards)
 
-Game of Chains will help validators to understand ICS and help to find any bugs.
+Game of Chains will help validators to understand ICS and help to find any bugs. It is designed to fulfill two purposes: (1) testing Interchain Security in mainnet-like conditions (2) providing Cosmos Hub validators the opportunity to build confidence around running the ICS protocol.
 
 **The testnet infrastructure includes:**
 
@@ -24,13 +24,7 @@ Game of Chains will help validators to understand ICS and help to find any bugs.
 - IBC relayers
 - Support services
 
-Game of Chains is designed to fulfill two purposes:
-(1) testing Interchain Security in mainnet-like conditions
-(2) providing Cosmos Hub validators the opportunity to build confidence around running the ICS protocol
-
-Game of Chains will last over the next 2-4 weeks and will end in the end of November. Validators will complete a series of tasks that prove their proficiency at running the ICS protocol. In each phase, points will be awarded to validators who complete certain tasks. In the end of campaign, the best validators will be eligible for rewards.
-
-This public testnet is funded via Prop77, so validators are competing for 20000 ATOMs reward
+Game of Chains will end in the end of November. In each phase, points will be awarded to validators who complete certain tasks. In the end of campaign, the best validators will be eligible for rewards, which are funded by [Prop77](https://www.mintscan.io/cosmos/proposals/77), with 20000 ATOMs.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 If you want to support us in our mission of creating and spreading educational content and aligning the goal of different communities, please stake with us (guide you can find [here](https://www.citizencosmos.space/staking)) 
