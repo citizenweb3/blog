@@ -8,7 +8,7 @@ Interchain Security allows for a provider chain, such as the Cosmos Hub, to shar
 
 The benefits of ICS for the Cosmos ecosystem:
 - Chains will be more reliable and secured by trusted validators
-- The validation process is not going to be a distraction to building their products workflow
+- The validation process is not going to be a distraction for validators to building their products workflow
 - ATOM’s sustainability will rise
 Validators also will benefit as they can attract delegators from new chains and get a part of their tokens. 
 
