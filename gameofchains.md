@@ -20,7 +20,7 @@ Game of Chains will help validators to understand ICS and help to find any bugs.
 **The testnet infrastructure includes:**
 
 - Provider chain
-- Multiple consumer chains (Apollo, Sputnik, [Stride](https://www.citizencosmos.space/stride), Duality, [Neutron](https://www.citizencosmos.space/neutron) chains)
+- Multiple consumer chains
 - IBC relayers
 - Support services
 
