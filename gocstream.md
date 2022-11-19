@@ -1,17 +1,17 @@
-[![68747470733a2f2f692e696d6775722e636f6d2f307949637655672e6a7067.jpg](https://i.postimg.cc/PJx4q21C/68747470733a2f2f692e696d6775722e636f6d2f307949637655672e6a7067.jpg)](https://postimg.cc/r0BWnGnT)
+[![streamgoc.png](https://i.postimg.cc/BZwpyJHV/streamgoc.png)](https://postimg.cc/PNY1vs6W)
 
-**A citizen odyssey, ep. XII, special mission: Game of Chains recap**
+**[A citizen odyssey, ep. XII, special mission: Game of Chains recap](https://www.youtube.com/watch?v=RXMoF18bckU)**
 
-The Interchain Security protocol (ICS) is to be run in Cosmos in January 2023. To test it, an incentivized testnet program called Game of Chains (GoC) was launched.
+The Interchain Security protocol (ICS) is to be run in Cosmos in January 2023. To test it, an incentivized testnet program called [Game of Chains (GoC)](https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022#phase-1-two-dummy-chains) was launched.
 It’s the third public incentivized testnet in the history of Cosmos, after Game of Stakes and Game of Zones.
 
-Citizen Cosmos, being a participant, called members of Testnet Jury Jehan Tremback (Informal Systems)
- and Udit Vira (Hypha Worker Co-operative) to talk about GoC and ask them questions of concern.
+Citizen Cosmos, being a participant, called members of Testnet [Jury Jehan Tremback](https://twitter.com/JTremback) [(Informal Systems)](https://www.citizencosmos.space/jelena)
+ and [Udit Vira](https://twitter.com/UditVira) [(Hypha Worker Co-operative)](https://twitter.com/hyphacoop) to talk about GoC and ask them questions of concern.
 
 ***What is GoC?***<br>
-First, as part of a brief historical overview, Udit explained what GoC is and how this game differs from the previous two Cosmos games. 
+First, as part of a brief historical overview, Udit explained what [GoC](https://citizen-cosmos.github.io/blog/gameofchains.html) is and how this game differs from the previous two Cosmos games. 
 Game of Stakes was based on testing proof-of-stake mechanism, its goal was to understand all possible attack vectors. 
-Game of Zones came for the launch of IBC, and people were testing how IBC packets were being relayed between the different zones, which provided an
+[Game of Zones](https://www.citizencosmos.space/game-of-zones) came for the launch of IBC, and people were testing how IBC packets were being relayed between the different zones, which provided an
 opportunity to actually prove that this IBC ecosystem of sovereign interoperability where we had independent zones working together was something that could come to fruition.
 The goal of ongoing Game of Chains is to test Interchain Security. The idea of ICS is that one blockchain (The Cosmos Hub) can share security with another chain. 
 This feature was developed by Jehan’s team, by the way. The format of incentivezed testnet basically means that validators come and help run this network completing
@@ -55,7 +55,7 @@ There were also some issues in relayers which have been resolved now.
 Udit gave a quick review on the Game of Chains phased approach.<br>
 There are three phases:<br>
 I. Testing dummy chains (Apollo and Sputnik), very basic, the most simple chains, to make sure that we can run the provider chain.<br>
-II. Testing actual chains. Expecting to see some of the consumer chains that are going to be launching next year (e.g. Neutron).<br>
+II. Testing actual chains. Expecting to see some of the consumer chains that are going to be launching next year (e.g. [Neutron](https://www.citizencosmos.space/neutron)).<br>
 III. Asking anybody in the public or validators to submit consumer chains of their own.
 
 In conclusion, a quick Q&A session was held, during which some advantages of Cosmos SDK were pointed out.
