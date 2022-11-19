@@ -5,7 +5,7 @@
 The Interchain Security protocol (ICS) is to be run in Cosmos in January 2023. To test it, an incentivized testnet program called [Game of Chains (GoC)](https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022#phase-1-two-dummy-chains) was launched.
 It’s the third public incentivized testnet in the history of Cosmos, after Game of Stakes and Game of Zones.
 
-Citizen Cosmos, being a participant, called members of Testnet [Jury Jehan Tremback](https://twitter.com/JTremback) [(Informal Systems)](https://www.citizencosmos.space/jelena)
+Citizen Cosmos, [being a participant](https://provider-explorer.goc.earthball.xyz/validators/cosmosvaloper12zmahaunzfq8w3fwkv6uds69jsqszltyp5tk7m), called members of Testnet [Jury Jehan Tremback](https://twitter.com/JTremback) [(Informal Systems)](https://www.citizencosmos.space/jelena)
  and [Udit Vira](https://twitter.com/UditVira) [(Hypha Worker Co-operative)](https://twitter.com/hyphacoop) to talk about GoC and ask them questions of concern.
 
 ***What is GoC?***<br>
@@ -66,6 +66,6 @@ If you want to support us in our mission of creating and spreading educational c
 - [ATOM](https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u) 
 - [BOOT](https://wallet.keplr.app/chains/bostrom?modal=validator&chain=bostrom&validator_address=bostromvaloper1f7nx65pmayfenpfwzwaamwas4ygmvalqj6dz5r)
 
-and join our [Discord server](https://discord.gg/kJaG3EucCX) and help us grow the interest for web3 to the masses.
+and join our [Discord server](https://discord.gg/kJaG3EucCX) and help us grow the interest for web3 to the masses. 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcitizen-cosmos.github.io%2Fblog%2Fgocstream.html&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
