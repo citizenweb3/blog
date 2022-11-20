@@ -39,15 +39,10 @@ At least for the first few consumer chains there will be a process of due dilige
 As a conclusion for this part of the discussion, it should be said that there are some other risks too, but they are really not as much concern as those three, because they are more based on mistakes than a deliberate attack.
 
 **Already detected bugs**<br>
-There is something called iterators which are functions in the code which go over a collection of items and you have to return function (true or false) depending on
-whether you want to keep going to the next item and look a the next item in the list or whether you want to stop looking ath the list.
-Some of the itarators were written to that you would return true to stop and some of the iterators were written that you return true to continue.
-There was an iterator over the consumer chains which running on the provider chain, so when it was doing operations involving the consumer chain, 
-it was that function was returning true when it should have returned false to continue. That iterator would stop after after looking at the first consumer 
-chain and so the provider was only ever really interacting  with the first consumer chain.
-Now it is fixed and everything is refactored.
+Jehan gave a detailed report on one of the bugs:<br>
+“There’s something called [iterators](https://en.wikipedia.org/wiki/Iterator), which are kind of functions in the code, which go over a collection of items and you basically have to return from the function, you have to return _true_ or _false_ depending on whether you want to keep going to the next item and look at the next item in the list or whether you want to stop looking at the list. And so we had a situation in our code where we had some iterators you had to return _true_ to keep looking at the rest of the list, so it was either return _true_ to continue or return _true_ to stop. And so some of the iterators are written that you would turn _true_ to stop, and some of the iterators were written that you returned _true_ to continue. And so what actually with the bug happened was basically that there was an iterator over the consumer chains running on the provider chain, so when it’s doing operations involving the consumer chains iterate over the consumer chains, and it was that function was returning the wrong thing, like was returning _true_ when it should have returned _false_ to continue. And what happened is that that iterator would stop after looking at the first consumer chain. Basically, the provider chain was only ever really interacting with the first consumer chain, the second one was being left out. So that was basically the bug, and so we fixed that, and we also went in and we refactored everything so we’re consistent about the stuff, and we got the upgrade.”
 
-There were also some issues in relayers which have been resolved now.
+There were also some issues in relayers, which have been resolved now.
 
 **Phases of GoC**<br>
 Udit gave a quick review on the Game of Chains phased approach.<br>
