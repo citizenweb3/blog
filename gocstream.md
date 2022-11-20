@@ -1,5 +1,3 @@
-[![streamgoc.png](https://i.postimg.cc/BZwpyJHV/streamgoc.png)](https://postimg.cc/PNY1vs6W)
-
 **[A citizen odyssey, ep. XII, special mission: Game of Chains recap](https://www.youtube.com/watch?v=RXMoF18bckU)**
 
 The Interchain Security protocol (ICS) is to be run in Cosmos in January 2023. To test it, an incentivized testnet program called [Game of Chains (GoC)](https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022#phase-1-two-dummy-chains) was launched.
@@ -18,7 +16,7 @@ This feature was developed by Jehan’s team, by the way. The format of incentiv
 certain milestones to surface attack vectors, bugs and other issues. There are rewards for this because it’s a lot of work. 
 Also, rewards make this process a lot of fun by providing an environment where participants both compete and still help each other. 
 All of this ultimately helps a lot to polish that really complex piece of technology which is ICS.
-
+[![streamgoc.png](https://i.postimg.cc/T17mkjKN/streamgoc.png)](https://postimg.cc/wRN7MmcD)
 ***Preparation for the testnet***<br>
 Of course, it was necessary to prepare thoroughly for the testnet launch. Jehan shared how preliminary testing within the repository was going and about the automated
 tests that ran on every pull request. One of the types of tests is setting up a virtual network with several different chains: provider chain, which provides the 
