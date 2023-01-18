@@ -1,3 +1,5 @@
+**The blog moved to: https://github.com/citizen-cosmos/manuscripts**
+
 # [The Citizen Cosmos manuscripts](https://citizen-cosmos.github.io/blog/)
 
 - [Our podcast](https://www.citizencosmos.space/)
